@@ -30,8 +30,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Run tests
+        run: pytest
+
       - name: Call API and save image
-        run: python api.py
+        run: PYTHONPATH=src python -m daily_panda_image.main
 
       - name: Configure Git
         run: |
@@ -48,6 +51,7 @@ jobs:
           else
             echo "changes=true" >> $GITHUB_OUTPUT
             echo "Changes detected"
+          fi
 
       - name: Push Generated Content
         if: steps.check_changes.outputs.changes == 'true'

@@ -1,0 +1,111 @@
+"""
+FileManager - Handles file operations for images, prompts, and README updates.
+"""
+
+import datetime
+import os
+from pathlib import Path
+
+
+class FileManager:
+    """Manages file operations for images, prompts, and README updates."""
+
+    @staticmethod
+    def get_project_root() -> Path:
+        """
+        Get the project root directory.
+
+        Returns:
+            Path to project root directory
+        """
+        # Navigate up 4 levels from the current file location to get to the project root
+        return Path(__file__).resolve().parent.parent.parent.parent
+
+    @staticmethod
+    def ensure_directory_exists(directory: str) -> None:
+        """
+        Create directory if it doesn't exist.
+
+        Args:
+            directory: Path to directory to create
+        """
+        dir_path = os.path.join(FileManager.get_project_root(), directory)
+        os.makedirs(dir_path, exist_ok=True)
+        print(f"Directory '{directory}' exists or created successfully.")
+
+    @staticmethod
+    def save_image(image_bytes: bytes, current_date: datetime.date) -> None:
+        """
+        Save image with both timestamped and current filenames.
+
+        Args:
+            image_bytes: Image data to save
+            current_date: Current date for timestamping
+        """
+        FileManager.ensure_directory_exists("images")
+
+        # Save timestamped version
+        timestamped_path = os.path.join(FileManager.get_project_root(), "images", f"panda_{current_date}.png")
+        with open(timestamped_path, "wb") as f:
+            f.write(image_bytes)
+        print(f"Image '{timestamped_path}' saved successfully.")
+
+        # Save current version
+        current_path = os.path.join(FileManager.get_project_root(), "images", "panda_current.png")
+        with open(current_path, "wb") as f:
+            f.write(image_bytes)
+        print(f"Image '{current_path}' saved successfully.")
+
+    @staticmethod
+    def save_prompt(prompt: str, current_date: datetime.date) -> None:
+        """
+        Save prompt with both timestamped and current filenames.
+
+        Args:
+            prompt: Prompt text to save
+            current_date: Current date for timestamping
+        """
+        FileManager.ensure_directory_exists("prompts")
+
+        # Save timestamped version
+        timestamped_path = os.path.join(FileManager.get_project_root(), "prompts", f"prompt_{current_date}.txt")
+        with open(timestamped_path, "w") as f:
+            f.write(prompt)
+        print(f"Prompt '{timestamped_path}' saved successfully.")
+
+        # Save current version
+        current_path = os.path.join(FileManager.get_project_root(), "prompts", "prompt_current.txt")
+        with open(current_path, "w") as f:
+            f.write(prompt)
+        print(f"Prompt '{current_path}' saved successfully.")
+
+    @staticmethod
+    def update_readme(prompt: str) -> None:
+        """
+        Update README file with the new prompt.
+
+        Args:
+            prompt: Prompt text to add to README
+        """
+        try:
+            readme_path = os.path.join(FileManager.get_project_root(), "README.md")
+            with open(readme_path, "r") as readme_file:
+                readme_content = readme_file.readlines()
+
+            updated_readme_content = []
+            for line in readme_content:
+                if line.strip() == "![screenshot](images/panda_current.png)":
+                    updated_readme_content.append(line)
+                    updated_readme_content.append(f"\n**Prompt:** {prompt}\n")
+                    break
+                else:
+                    updated_readme_content.append(line)
+
+            with open(readme_path, "w") as readme_file:
+                readme_file.writelines(updated_readme_content)
+
+            print("README updated successfully.")
+
+        except FileNotFoundError:
+            print("Warning: README.md not found, skipping README update.")
+

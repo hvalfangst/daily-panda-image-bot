@@ -1,1 +1,4 @@
 openai~=1.82.0
+DateTime~=5.4
+pathlib~=1.0.1
+pytest~=7.4.4
