@@ -1,0 +1,56 @@
+name: Panda Image Publisher
+
+# Runs on schedule every morning at 06:00 CEST time, which is 04:00 UTC. Manual trigger is also available.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  panda_image_publisher:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Gives write permission to repository contents
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Call API and save image
+        run: python api.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Panda Image Bot"
+          git config --global user.email "noreply@github.com"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add images/ prompts/ README.md
+          if git diff --cached --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected"
+
+      - name: Push Generated Content
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git commit -m "🎨🐼 Updated image and prompt for $(date +%Y-%m-%d)"
+          git push origin main
