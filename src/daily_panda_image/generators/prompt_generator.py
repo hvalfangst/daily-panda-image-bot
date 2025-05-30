@@ -1,4 +1,5 @@
 import datetime
+import hashlib
 
 from openai import OpenAI
 
@@ -17,6 +18,31 @@ class PromptGenerator:
         """
         self.client = client
 
+    def get_unique_api_params(self, current_date: datetime.date) -> dict:
+        """Generate date-based API parameters to ensure uniqueness."""
+
+        # Create date-based seed for reproducible but varying randomness
+        date_seed = int(hashlib.md5(current_date.isoformat().encode()).hexdigest()[:8], 16)
+
+        # Use date to vary temperature and penalties
+        day_of_year = current_date.timetuple().tm_yday
+
+        # Vary temperature based on day (0.7-0.95 range)
+        temperature = 0.7 + (day_of_year % 25) * 0.01
+
+        # Vary presence penalty (0.5-0.8 range)
+        presence_penalty = 0.5 + (day_of_year % 30) * 0.01
+
+        # Vary frequency penalty (0.3-0.7 range)
+        frequency_penalty = 0.3 + (day_of_year % 40) * 0.01
+
+        return {
+            "temperature": round(temperature, 2),
+            "presence_penalty": round(presence_penalty, 2),
+            "frequency_penalty": round(frequency_penalty, 2),
+            "seed": date_seed % 2147483647  # Keep within int32 range
+        }
+
     def generate_prompt(self, current_date: datetime.date) -> str:
         """
         Generate a creative prompt for a panda participating in cultural events.
@@ -32,6 +58,7 @@ class PromptGenerator:
         """
         system_prompt = self._get_system_prompt()
         text_prompt = self._get_text_prompt(current_date)
+        api_params = self.get_unique_api_params(current_date)
 
         response = self.client.chat.completions.create(
             model="gpt-4.1-nano",
@@ -40,9 +67,10 @@ class PromptGenerator:
                 {"role": "user", "content": text_prompt}
             ],
             max_tokens=100,
-            temperature=0.8,
-            presence_penalty=0.6,
-            frequency_penalty=0.4
+            temperature=api_params["temperature"],
+            presence_penalty=api_params["presence_penalty"],
+            frequency_penalty=api_params["frequency_penalty"],
+            seed=api_params["seed"]  # Ensures reproducible but unique daily results
         )
 
         raw_prompt = response.choices[0].message.content
@@ -56,34 +84,32 @@ class PromptGenerator:
 
     def _get_system_prompt(self) -> str:
         """Get the system prompt for the AI assistant."""
-        return """You are a creative prompt engineer specializing in unique, visually striking image descriptions. 
-        Create prompts that are specific, unexpected, and memorable. Focus on unusual angles, interesting details, 
-        and creative interpretations that an AI image generator can render beautifully. Ensure all generated text is 
-        ASCII-only and adheres to the specified token limits."""
+        return """You are a creative prompt engineer specializing in unique, visually striking image descriptions featuring pandas in diverse global historical events. 
+        Create prompts that show pandas actively participating in real historical events from the current date throughout history, prioritizing lesser-known, culturally specific, and regionally significant events over widely famous ones. 
+        Focus on whimsical watercolor aesthetics with specific visual details, period-accurate elements, and memorable compositions. 
+        Rotate through different historical events from various countries and cultures to ensure no repetition and maximum diversity. Ensure all generated text is ASCII-only and adheres to token limits."""
 
     def _get_text_prompt(self, current_date: datetime.date) -> str:
-        """
-        Generate the user prompt with specific requirements.
+        """Generate the user prompt for historical panda images with event rotation."""
 
-        Args:
-            current_date: Date to include in the prompt
+        # Format the date for the prompt so that it becomes 'MONTH DAY'
+        date_str = current_date.strftime("%B %d")
 
-        Returns:
-            Formatted prompt string
-        """
-        return f"""Create a detailed, creative image prompt featuring a panda as the main character actively participating in or celebrating a real global cultural, historical, or seasonal event happening on {current_date}. 
-        
+        return f"""Create a detailed, whimsical watercolor image prompt featuring a panda actively participating in a lesser-known or culturally specific historical event from {date_str}.
+
         Requirements:
-        - The panda should be DOING something related to the event, not just observing
-        - Include specific visual details (clothing, props, setting, lighting, mood)
-        - Make it whimsical but respectful to the cultural significance
-        - Add unique artistic elements that make the image memorable
-        - Specify art style or photographic technique for visual impact
-        - Non-asian cultural references are preferred to broaden the scope of creativity
-        - Plan the response to fit within 100 tokens
-        - Prioritize complete sentences over quantity
+        - SELECT a unique, non-mainstream historical event from {date_str} - avoid the most famous events
+        - Prioritize country-specific, regional, or culturally significant events over globally known ones
+        - Choose events from diverse geographical locations and time periods
+        - The panda must be DOING something central to this specific historical event
+        - Use soft watercolor painting style with gentle brushstrokes and pastel colors
+        - Include period-accurate clothing, props, and setting details specific to the culture/region
+        - Make it charming and whimsical while respecting cultural and historical significance
+        - Add specific visual elements: lighting, mood, atmospheric details appropriate to the era and location
+        - Plan response to fit within 100 tokens
         - Use only ASCII-safe characters
         - Allowed punctuation: ., !, ?, :, -, ' (apostrophe), " (quotation marks)
-        - Forbidden punctuation: non-ASCII symbols, emojis, or excessive special characters
-        
-        Format: Start with "A [art style] image of..." and make it vivid and specific."""
+        - Ensure randomness - do not default to the same types of events repeatedly
+
+        Format: Start with "A whimsical watercolor painting of..." and describe the panda's active role in the lesser-known historical event, including the specific country/region and cultural context."""
+
