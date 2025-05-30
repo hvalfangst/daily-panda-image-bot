@@ -31,7 +31,7 @@ class FileManager:
         """
         dir_path = os.path.join(FileManager.get_project_root(), directory)
         os.makedirs(dir_path, exist_ok=True)
-        print(f"Directory '{directory}' exists or created successfully.")
+        print(f"Directory '{directory}' exists or created successfully.\n")
 
     @staticmethod
     def save_image(image_bytes: bytes, current_date: datetime.date) -> None:
@@ -48,13 +48,13 @@ class FileManager:
         timestamped_path = os.path.join(FileManager.get_project_root(), "images", f"panda_{current_date}.png")
         with open(timestamped_path, "wb") as f:
             f.write(image_bytes)
-        print(f"Image '{timestamped_path}' saved successfully.")
+        print(f"Image '{timestamped_path}' saved successfully.\n")
 
         # Save current version
         current_path = os.path.join(FileManager.get_project_root(), "images", "panda_current.png")
         with open(current_path, "wb") as f:
             f.write(image_bytes)
-        print(f"Image '{current_path}' saved successfully.")
+        print(f"Image '{current_path}' saved successfully.\n")
 
     @staticmethod
     def save_prompt(prompt: str, current_date: datetime.date) -> None:
@@ -71,13 +71,45 @@ class FileManager:
         timestamped_path = os.path.join(FileManager.get_project_root(), "prompts", f"prompt_{current_date}.txt")
         with open(timestamped_path, "w") as f:
             f.write(prompt)
-        print(f"Prompt '{timestamped_path}' saved successfully.")
+        print(f"Prompt '{timestamped_path}' saved successfully.\n")
 
         # Save current version
         current_path = os.path.join(FileManager.get_project_root(), "prompts", "prompt_current.txt")
         with open(current_path, "w") as f:
             f.write(prompt)
-        print(f"Prompt '{current_path}' saved successfully.")
+        print(f"Prompt '{current_path}' saved successfully.\n")
+
+    @staticmethod
+    def save_event(prompt: str) -> None:
+        """
+        Append the event line from the prompt to a file, each on a new line.
+
+        Args:
+            prompt: Prompt text to extract the event line from
+        """
+        FileManager.ensure_directory_exists("events")
+
+        # Extract the first line (event line)
+        event_line = prompt.strip().splitlines()[0]
+        print(f"Extracted event line: '{event_line}'\n")
+        event_path = os.path.join(FileManager.get_project_root(), "events", "past_events.txt")
+        with open(event_path, "a") as f:
+            f.write(event_line + "\n")
+        print(f"Event line '{event_line}' appended to '{event_path}' successfully.\n")
+
+    @staticmethod
+    def read_all_events() -> str:
+        """
+        Read all event lines from the event list file and return as a single string.
+
+        Returns:
+            All event lines joined as a single string, separated by newlines.
+        """
+        event_path = os.path.join(FileManager.get_project_root(), "events", "past_events.txt")
+        if not os.path.exists(event_path):
+            return ""
+        with open(event_path, "r") as f:
+            return f.read()
 
     @staticmethod
     def update_readme(prompt: str) -> None:
@@ -104,7 +136,7 @@ class FileManager:
             with open(readme_path, "w") as readme_file:
                 readme_file.writelines(updated_readme_content)
 
-            print("README updated successfully.")
+            print("README updated successfully.\n")
 
         except FileNotFoundError:
             print("Warning: README.md not found, skipping README update.")

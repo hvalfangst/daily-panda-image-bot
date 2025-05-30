@@ -79,21 +79,22 @@ class PandaImageGenerator:
 
         try:
             # Generate prompt
-            print("Generating prompt...")
+            print(f"Generating prompt for {current_date}...\n")
             prompt = self.prompt_generator.generate_prompt(current_date)
-            print(f"Generated prompt: {prompt}")
+            print(f"Generated prompt: {prompt}\n")
 
             # Generate image
-            print("Generating image...")
+            print("Generating image based on prompt...\n")
             image_bytes = self.image_generator.generate_image(prompt)
-            print("Image generation successful. Saving files...")
+            print("Image generation successful. Saving files...\n")
 
             # Save files
             FileManager.save_image(image_bytes, current_date)
             FileManager.save_prompt(prompt, current_date)
+            FileManager.save_event(prompt)
             FileManager.update_readme(prompt)
 
-            print("Daily panda generation completed successfully!")
+            print("Daily panda generation completed successfully!\n")
 
         except Exception as e:
             print(f"Error during panda generation: {e}")
