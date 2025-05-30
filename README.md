@@ -6,4 +6,5 @@ This repository contains a [Python script](src/daily_panda_image/generators/imag
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** A whimsical watercolor painting of a panda dressed in traditional Ottoman attire, joyfully assisting craftsmen during the 17th-century Istanbul silk guild festival on May 30. The panda holds delicate threads, surrounded by vibrant textiles, intricate lanterns, and bustling market stalls under soft dawn light. Gentle pastel hues evoke a lively yet serene atmosphere as the scene celebrates craftsmanship and cultural pride in Ottoman Turkey.
+**Prompt:** 1840: First Japanese Ladies' Day Festival, Japan  
+A whimsical watercolor painting of a panda dressed in elegant kimono, joyfully arranging traditional cherry blossom decorations at a bustling Edo-era festival. Soft pastel hues highlight lanterns glowing gently as the panda hands out delicate paper cranes to cheerful women, capturing a charming moment of cultural celebration under a sky tinged with sunset pink and lavender.
