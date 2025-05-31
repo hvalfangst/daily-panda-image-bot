@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1840: First Japanese Ladies' Day Festival, Japan  
-A whimsical watercolor painting of a panda dressed in elegant kimono, joyfully arranging traditional cherry blossom decorations at a bustling Edo-era festival. Soft pastel hues highlight lanterns glowing gently as the panda hands out delicate paper cranes to cheerful women, capturing a charming moment of cultural celebration under a sky tinged with sunset pink and lavender.
+**Prompt:** 1848: Hungarian Revolution, Hungary  
+A whimsical watercolor painting of a panda dressed in 1848 Hungarian revolutionary attire, standing on a cobblestone street. The panda holds a tiny flag with the Hungarian tricolor, waving passionately amidst pastel-colored crowds and vintage lanterns. Soft sunlight filters through historic buildings with ornate facades, capturing the lively spirit of the uprising.
