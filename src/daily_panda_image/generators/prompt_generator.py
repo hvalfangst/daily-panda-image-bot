@@ -27,7 +27,7 @@ def get_text_prompt(current_date: datetime.date) -> str:
     print(f"Past events loaded: {past_events}\n")
 
     prompt_str = f"""Create a detailed, whimsical watercolor image prompt featuring a panda actively participating in a lesser-known or culturally specific historical event from {formated_date_str}
-        that is NOT the same as any of these past events: {past_events}
+        that is NOT the same as any of these past events, which are in square brackets separated by comma: {past_events}
 
         Requirements:
         - SELECT a unique, non-mainstream historical event from {formated_date_str} - avoid the most famous events

@@ -82,19 +82,35 @@ class FileManager:
     @staticmethod
     def save_event(prompt: str) -> None:
         """
-        Append the event line from the prompt to a file, each on a new line.
+        Append the event line from the prompt to a file, all on the same line, each event in square brackets and separated by comma.
 
         Args:
             prompt: Prompt text to extract the event line from
         """
         FileManager.ensure_directory_exists("events")
 
-        # Extract the first line (event line)
-        event_line = prompt.strip().splitlines()[0]
-        print(f"Extracted event line: '{event_line}'\n")
+        # Extract the first line (event line) and wrap in square brackets if not already
+        event_line = prompt.strip().splitlines()[0].strip()
+        if not (event_line.startswith("[") and event_line.endswith("]")):
+            event_line = f"[{event_line}]"
+
         event_path = os.path.join(FileManager.get_project_root(), "events", "past_events.txt")
-        with open(event_path, "a") as f:
-            f.write(event_line + "\n")
+        # Read current content
+        if os.path.exists(event_path):
+            with open(event_path, "r+") as f:
+                content = f.read().strip()
+                if content:
+                    # Remove trailing comma if present
+                    content = content.rstrip(", ")
+                    new_content = f"{content}, {event_line}"
+                else:
+                    new_content = event_line
+                f.seek(0)
+                f.write(new_content + "\n")
+                f.truncate()
+        else:
+            with open(event_path, "w") as f:
+                f.write(event_line + "\n")
         print(f"Event line '{event_line}' appended to '{event_path}' successfully.\n")
 
     @staticmethod
