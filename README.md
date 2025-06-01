@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1848: Hungarian Revolution, Hungary  
-A whimsical watercolor painting of a panda dressed in 1848 Hungarian revolutionary attire, standing on a cobblestone street. The panda holds a tiny flag with the Hungarian tricolor, waving passionately amidst pastel-colored crowds and vintage lanterns. Soft sunlight filters through historic buildings with ornate facades, capturing the lively spirit of the uprising.
+**Prompt:** 1936: Opening of the Transjordan Railway, Jordan  
+A whimsical watercolor painting of a cheerful panda wearing a tiny engineer's cap and overalls, confidently operating a vintage steam locomotive on the newly built Transjordan Railway. Soft pastel hues depict desert vistas and ancient stone stations, with gentle sunlight casting warm glows. The panda happily waving from the engine's cabin amidst locals in traditional clothing, capturing the pioneering spirit of regional development in this charming scene.
