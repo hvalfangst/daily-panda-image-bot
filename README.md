@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1936: Opening of the Transjordan Railway, Jordan  
-A whimsical watercolor painting of a cheerful panda wearing a tiny engineer's cap and overalls, confidently operating a vintage steam locomotive on the newly built Transjordan Railway. Soft pastel hues depict desert vistas and ancient stone stations, with gentle sunlight casting warm glows. The panda happily waving from the engine's cabin amidst locals in traditional clothing, capturing the pioneering spirit of regional development in this charming scene.
+**Prompt:** 1934: Establishment of the National Museum of Korea, Seoul
+A whimsical watercolor of a cheerful panda dressed in traditional hanbok, carefully arranging ancient Korean pottery on display shelves with gentle brushstrokes. Soft pastel hues highlight the museum's ornate wooden architecture and lanterns glowing warmly in the background. The panda's playful expression captures the pride and curiosity of cultural preservation, set against a calm, inviting atmosphere filled with historical artifacts and delicate floral motifs.
