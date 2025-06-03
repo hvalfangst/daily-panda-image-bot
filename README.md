@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1934: Establishment of the National Museum of Korea, Seoul
-A whimsical watercolor of a cheerful panda dressed in traditional hanbok, carefully arranging ancient Korean pottery on display shelves with gentle brushstrokes. Soft pastel hues highlight the museum's ornate wooden architecture and lanterns glowing warmly in the background. The panda's playful expression captures the pride and curiosity of cultural preservation, set against a calm, inviting atmosphere filled with historical artifacts and delicate floral motifs.
+**Prompt:** 1925: Founding of the Indian Khadi Movement, India  
+A whimsical watercolor painting of a panda wearing a traditional dhoti and kurta, actively weaving khadi fabric on a vintage spinning wheel amidst lush green fields. The scene is bathed in soft morning light with gentle pastel hues, capturing the spirit of independence and cultural pride. The panda joyfully holds a spool of spun cotton while villagers in period-appropriate attire gather around, emphasizing unity and self-reliance during India's nationalist movement.
