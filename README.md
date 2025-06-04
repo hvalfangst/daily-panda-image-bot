@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1925: Founding of the Indian Khadi Movement, India  
-A whimsical watercolor painting of a panda wearing a traditional dhoti and kurta, actively weaving khadi fabric on a vintage spinning wheel amidst lush green fields. The scene is bathed in soft morning light with gentle pastel hues, capturing the spirit of independence and cultural pride. The panda joyfully holds a spool of spun cotton while villagers in period-appropriate attire gather around, emphasizing unity and self-reliance during India's nationalist movement.
+**Prompt:** [1896: Opening of the Paris Metro, France]  
+A whimsical watercolor painting of a panda dressed in vintage engineer's attire, happily operating an ornate Paris Metro train with a tiny cap and goggles. Soft pastel colors highlight the early dawn light spilling through art nouveau station arches, while delicate steam rises around the gleaming vintage train. The panda cheerfully signals passengers from a small conductor's window, embodying joy and curiosity in this charming urban scene.
