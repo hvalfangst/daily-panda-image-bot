@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1896: Opening of the Paris Metro, France]  
-A whimsical watercolor painting of a panda dressed in vintage engineer's attire, happily operating an ornate Paris Metro train with a tiny cap and goggles. Soft pastel colors highlight the early dawn light spilling through art nouveau station arches, while delicate steam rises around the gleaming vintage train. The panda cheerfully signals passengers from a small conductor's window, embodying joy and curiosity in this charming urban scene.
+**Prompt:** [1923: Launch of the Turkish Language and Syntax Congress, Ankara]
+A whimsical watercolor painting of a cheerful panda dressed in early 20th-century Ottoman attire, sitting at a wooden desk with old parchment papers and quills. The panda is happily proposing new Turkish language rules to a small group of scholars in a sunlit, vintage conference room with intricate Persian carpets and patterned curtains. Soft pastel hues illuminate the scene, capturing an atmosphere of intellectual curiosity and cultural pride from that era.
