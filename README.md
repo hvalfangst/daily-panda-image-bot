@@ -11,5 +11,6 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1923: Launch of the Turkish Language and Syntax Congress, Ankara]
-A whimsical watercolor painting of a cheerful panda dressed in early 20th-century Ottoman attire, sitting at a wooden desk with old parchment papers and quills. The panda is happily proposing new Turkish language rules to a small group of scholars in a sunlit, vintage conference room with intricate Persian carpets and patterned curtains. Soft pastel hues illuminate the scene, capturing an atmosphere of intellectual curiosity and cultural pride from that era.
+**Prompt:** 1922: Founding of the Afro-Asian People's Solidarity Conference, Cairo
+
+A whimsical watercolor painting of a delighted panda dressed in early 20th-century Arab attire, sitting at a wooden conference table with indigenous textiles and vintage microphones. The panda raises a paw passionately as other diverse delegates listen attentively. Soft pastel hues bathed in warm sunlight filter through latticed windows, creating an atmosphere of hope and unity during this historic gathering for anti-colonial solidarity.
