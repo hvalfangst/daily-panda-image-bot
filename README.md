@@ -11,6 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1922: Founding of the Afro-Asian People's Solidarity Conference, Cairo
-
-A whimsical watercolor painting of a delighted panda dressed in early 20th-century Arab attire, sitting at a wooden conference table with indigenous textiles and vintage microphones. The panda raises a paw passionately as other diverse delegates listen attentively. Soft pastel hues bathed in warm sunlight filter through latticed windows, creating an atmosphere of hope and unity during this historic gathering for anti-colonial solidarity.
+**Prompt:** 2022: Celebrating the Togo National Day, Lome  
+A whimsical watercolor painting of a cheerful panda dressed in colorful traditional Togolese attire, waving a tiny flag amidst lively dancers and drummers. The scene is set under bright sunny skies with lush green palm trees swaying gently. The panda stands at the center holding a small drum, engaging happily with villagers in vibrant skirts and hats, capturing joyful community spirit on this special day.
