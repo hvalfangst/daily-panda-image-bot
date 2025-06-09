@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1842: First Burmese-Malay Friendship Festival, Myanmar and Malaysia]  
-A whimsical watercolor painting of a panda wearing traditional Burmese longyi and Malay songket, joyfully tying colorful prayer flags on bamboo poles during the festival. Soft pastel hues fill the scene with lanterns gently glowing as villagers in embroidered clothing gather around. The panda cheerfully hands a decorated flag to an elder, capturing a charming moment of cultural unity under a serene sky, with delicate floral and temple details blending into the background.
+**Prompt:** [1846: Launch of the First Japanese Tea Ship, Yokohama]  
+A whimsical watercolor painting of a panda dressed in a traditional kimono, cheerfully steering a small wooden tea ship docked at Yokohama harbor. Gentle pastel waves lap against the boat as lanterns sway in the breeze. The panda happily hands out cups of steaming matcha to tiny sailors, with distant mountains and rickshaw carts in soft focus.
