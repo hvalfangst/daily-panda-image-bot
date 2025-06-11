@@ -11,6 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1875: Establishment of the Brazilian National Museum, Rio de Janeiro]
-
-A whimsical watercolor painting of a panda dressed in Victorian-era explorer attire, gently unveiling an ornate display case filled with indigenous artifacts inside the newly founded museum. Soft pastel hues highlight the lush tropical background outside large arched windows, with delicate shadows cast by vintage lamps. The panda's curious expression and gentle touch celebrate Brazil's rich cultural preservation during this historic moment.
+**Prompt:** 1877: Establishment of the African National Library, Ethiopia  
+A whimsical watercolor painting of a panda dressed in traditional Ethiopian attire, happily arranging ancient manuscripts and scrolls on wooden shelves in a vibrant, bustling library. Soft pastel colors illuminate the scene with gentle sunlight filtering through stained-glass windows, capturing a warm, scholarly atmosphere full of cultural pride and curiosity.
