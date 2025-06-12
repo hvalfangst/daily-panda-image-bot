@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1877: Establishment of the African National Library, Ethiopia  
-A whimsical watercolor painting of a panda dressed in traditional Ethiopian attire, happily arranging ancient manuscripts and scrolls on wooden shelves in a vibrant, bustling library. Soft pastel colors illuminate the scene with gentle sunlight filtering through stained-glass windows, capturing a warm, scholarly atmosphere full of cultural pride and curiosity.
+**Prompt:** 2022: Togo National Day Celebration, Lome  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Togolese attire, waving a small Togolese flag. The panda stands among colorful local drums and woven baskets in a vibrant market square, with strings of bright lanterns overhead. Soft pastel skies cast gentle light on smiling villagers dancing and singing, while the panda joyfully joins the festivities, blending cultural charm with playful whimsy.
