@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 2022: Togo National Day Celebration, Lome  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Togolese attire, waving a small Togolese flag. The panda stands among colorful local drums and woven baskets in a vibrant market square, with strings of bright lanterns overhead. Soft pastel skies cast gentle light on smiling villagers dancing and singing, while the panda joyfully joins the festivities, blending cultural charm with playful whimsy.
+**Prompt:** [1894: Launch of the Wuchang Uprising, China]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Qing imperial robes, holding a tiny flag, standing atop a lantern-lit boat on the Yangtze River. Soft pastel hues depict dawn's gentle glow as the panda actively signals with a bamboo stick amidst bustling river scenes, capturing the spirited moment of revolutionary change.
