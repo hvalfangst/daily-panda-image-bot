@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1894: Launch of the Wuchang Uprising, China]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Qing imperial robes, holding a tiny flag, standing atop a lantern-lit boat on the Yangtze River. Soft pastel hues depict dawn's gentle glow as the panda actively signals with a bamboo stick amidst bustling river scenes, capturing the spirited moment of revolutionary change.
+**Prompt:** 1844: First Thai Dental Association Gathering, Bangkok  
+A whimsical watercolor of a cheerful panda wearing traditional Thai silk attire, actively teaching locals about tooth cleaning with a bamboo toothbrush in a lush temple courtyard. Soft pastel hues highlight ornate golden temples and vibrant surroundings, warm sunlight filtering through palm trees, capturing a charming, culturally rich scene full of gentle movement and historical detail.
