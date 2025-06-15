@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1844: First Thai Dental Association Gathering, Bangkok  
-A whimsical watercolor of a cheerful panda wearing traditional Thai silk attire, actively teaching locals about tooth cleaning with a bamboo toothbrush in a lush temple courtyard. Soft pastel hues highlight ornate golden temples and vibrant surroundings, warm sunlight filtering through palm trees, capturing a charming, culturally rich scene full of gentle movement and historical detail.
+**Prompt:** [1864: Opening of the Meiji Shrine Festival, Tokyo]  
+A whimsical watercolor painting of a panda dressed in colorful traditional Japanese festival attire, joyfully helping carry a lantern during the grand opening procession. Soft pastel hues highlight the vibrant kimono patterns and delicate paper lanterns, with gentle sunlight illuminating historic wooden shrine structures in the background. The panda's playful expression captures the festive spirit amid cherry blossoms fluttering softly around.
