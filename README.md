@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1722: Qing Dynasty Water Festival, China]  
-A whimsical watercolor painting of a panda dressed in elegant Qing robes, floating on a small boat during the Water Festival. The panda gently releases paper lanterns into the river, illuminated by soft moonlight. Pastel hues adorn traditional pagodas and delicate willow branches along the water's edge, creating a serene, charming scene full of gentle ripples and festive cheer.
+**Prompt:** [1913: Founding of the Polish Scout Movement, Poland]  
+A whimsical watercolor painting of a cheerful panda dressed in early 20th-century scout uniform, pinning a colorful badge onto a fellow scout's lapel amid a lively outdoor gathering. Soft pastel hues depict the dawn light filtering through tall pine trees, with vintage badges, banners, and campfire smoke swirling gently in the background. The panda's playful expression captures the spirit of youth and unity during this pioneering movement.
