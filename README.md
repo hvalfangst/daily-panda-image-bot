@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1913: Founding of the Polish Scout Movement, Poland]  
-A whimsical watercolor painting of a cheerful panda dressed in early 20th-century scout uniform, pinning a colorful badge onto a fellow scout's lapel amid a lively outdoor gathering. Soft pastel hues depict the dawn light filtering through tall pine trees, with vintage badges, banners, and campfire smoke swirling gently in the background. The panda's playful expression captures the spirit of youth and unity during this pioneering movement.
+**Prompt:** [1864: Opening of the Meiji Shrine Festival, Tokyo]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional kimono, holding a small drum and standing beneath colorful lanterns during the grand festival. Soft pastel hues highlight the serene temple grounds at dusk, with delicate cherry blossoms floating gently in the air. The panda joyfully participates in the ceremony, adding charm to this peaceful celebration of cultural renewal.
