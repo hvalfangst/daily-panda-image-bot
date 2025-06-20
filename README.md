@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1884: Founding of the Ethiopian Orthodox Church, Ethiopia]  
-A whimsical watercolor painting of a panda dressed in traditional Ethiopian clergy robes, blessing a small procession of villagers with a golden cross. The scene is set in a lush green landscape, with ancient churches in the background, soft pastel colors highlighting the dawn light and reverent atmosphere. The panda's gentle smile and outstretched paw bring a charming, peaceful touch to this historic moment.
+**Prompt:** [1892: Opening of the Trans-Siberian Railway, Russia]  
+A whimsical watercolor painting of a cheerful panda wearing a tiny engineer's cap, holding a miniature lantern as it happily waddles along a bustling train station. Snow gently falls around ornate wooden platforms with vintage workers in period-appropriate Russian attire. Soft pastel colors illuminate the early morning light, capturing the charm and industrious spirit of this lesser-known milestone in Siberian history.
