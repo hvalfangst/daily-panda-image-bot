@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1884: Founding of the Ethiopian Orthodox Church, Ethiopia]  
-A whimsical watercolor painting of a panda dressed in traditional Ethiopian clergy robes, standing reverently in front of an ancient stone church with colorful frescoes. The panda holds a small golden cross and is surrounded by cheerful priests and acolytes in vibrant robes. Soft sunlight filters through lush green trees, casting gentle shadows on the scene. The pastel hues create a warm, sacred atmosphere filled with cultural charm and joyful reverence.
+**Prompt:** [1964: First Coastal Marine Conservation Day, Philippines]  
+A whimsical watercolor painting of a delighted panda wearing traditional Filipino barong and bahag, gently releasing tiny fish into the ocean from a small bamboo boat. Soft pastel waves shimmer under warm sunlight, surrounded by lush green islands and colorful boats, capturing the serene celebration of marine life preservation in the archipelago.
