@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1964: First Coastal Marine Conservation Day, Philippines]  
-A whimsical watercolor painting of a delighted panda wearing traditional Filipino barong and bahag, gently releasing tiny fish into the ocean from a small bamboo boat. Soft pastel waves shimmer under warm sunlight, surrounded by lush green islands and colorful boats, capturing the serene celebration of marine life preservation in the archipelago.
+**Prompt:** [1884: Founding of the Ethiopian Orthodox Church, Ethiopia]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Ethiopian clerical robes, holding a scroll with ancient texts, standing in front of a historic stone church. Soft pastel hues illuminate the scene as sunlight filters through leafy branches, capturing the joyous celebration during the church's founding ceremony. The panda's gentle smile and vibrant attire add charm to this culturally rich moment.
