@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1884: Founding of the Ethiopian Orthodox Church, Ethiopia]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Ethiopian clerical robes, holding a scroll with ancient texts, standing in front of a historic stone church. Soft pastel hues illuminate the scene as sunlight filters through leafy branches, capturing the joyous celebration during the church's founding ceremony. The panda's gentle smile and vibrant attire add charm to this culturally rich moment.
+**Prompt:** [1840: First Japanese Ladies' Day Festival, Japan]  
+A whimsical watercolor painting of a cheerful panda dressed in elegant kimono, holding a delicate fan, participating in the first Japanese Ladies' Day Festival. The scene shows pastel cherry blossoms floating softly around, with traditional paper lanterns glowing warmly. The panda stands amidst women in colorful kimonos on a historic wooden bridge, capturing the festive and gentle spirit of this cultural milestone through soft brushstrokes and dreamy light.
