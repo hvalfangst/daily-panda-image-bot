@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1848: Hungarian Revolution, Hungary  
-A whimsical watercolor painting of a panda dressed in 1848 Hungarian revolutionary attire, standing on a cobblestone street. The panda holds a tiny flag with the Hungarian tricolor, waving passionately amidst pastel-colored crowds and vintage lanterns. Soft sunlight filters through historic buildings with ornate facades, capturing the lively spirit of the uprising.
+**Prompt:** [1929: Founding of the Chinese Communist Youth League, Shanghai]  
+A whimsical watercolor painting of a cheerful panda wearing traditional early 20th-century Chinese attire, holding a small red flag with the league emblem. The panda stands amid bustling city streets with vintage bicycles and lanterns, cheerfully rallying young students in a lively square at sunset. Soft pastel hues illuminate the scene, capturing hope and youthful energy during a pivotal moment in Chinese history.
