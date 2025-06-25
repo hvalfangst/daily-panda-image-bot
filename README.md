@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1840: First Japanese Ladies' Day Festival, Japan]  
-A whimsical watercolor painting of a cheerful panda dressed in elegant kimono, holding a delicate fan, participating in the first Japanese Ladies' Day Festival. The scene shows pastel cherry blossoms floating softly around, with traditional paper lanterns glowing warmly. The panda stands amidst women in colorful kimonos on a historic wooden bridge, capturing the festive and gentle spirit of this cultural milestone through soft brushstrokes and dreamy light.
+**Prompt:** [1929: Founding of the Chinese Communist Youth League, Shanghai]  
+A whimsical watercolor painting of a cheerful panda wearing traditional early 20th-century Chinese attire, holding a small red flag with the league emblem. The panda stands amid bustling city streets with vintage bicycles and lanterns, cheerfully rallying young students in a lively square at sunset. Soft pastel hues illuminate the scene, capturing hope and youthful energy during a pivotal moment in Chinese history.
