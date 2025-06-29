@@ -12,4 +12,4 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ![screenshot](images/panda_current.png)
 
 **Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Chinese robes, holding a lantern at the first Chinese-American cultural festival. The scene shows historic storefronts with vintage signage, soft pastel sky glowing at sunset, gentle crowds in early 20th-century attire, and delicate cherry blossoms floating around. The panda joyfully performs a traditional dance on a small stage decorated with paper lanterns, capturing a charming moment of cultural celebration.
+A whimsical watercolor painting of a cheerful panda dressed in traditional Chinese qipao, performing lion dance with vibrant red and gold silk ribbons amidst colorful lanterns hanging from old-fashioned streetlamps. The scene is set in a bustling early 20th-century Chinatown, with wooden storefronts and curious onlookers.
