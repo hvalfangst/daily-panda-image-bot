@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Chinese qipao, performing lion dance with vibrant red and gold silk ribbons amidst colorful lanterns hanging from old-fashioned streetlamps. The scene is set in a bustling early 20th-century Chinatown, with wooden storefronts and curious onlookers.
+**Prompt:** [1775: First Grand Council of the Tlingit, Alaska]  
+A whimsical watercolor painting of a panda dressed in traditional Tlingit regalia, sitting proudly at a carved cedar longhouse table during the first Grand Council. The panda is holding a small carved totem pole, with intricate patterns, as elders in woven robes and feathered headdresses listen attentively.
