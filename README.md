@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1775: First Grand Council of the Tlingit, Alaska]  
-A whimsical watercolor painting of a panda dressed in traditional Tlingit regalia, sitting proudly at a carved cedar longhouse table during the first Grand Council. The panda is holding a small carved totem pole, with intricate patterns, as elders in woven robes and feathered headdresses listen attentively.
+**Prompt:** [1824: First Brazilian Indigenous Festival, Amazonia]  
+A whimsical watercolor painting of a cheerful panda dressed in vibrant feathered headdresses and traditional attire, dancing among indigenous tribes. The scene is set in lush rainforest clearing at dawn with soft pastel skies, tribal drums beating gently. The panda happily plays a carved wooden flute while surrounded by colorful banners and exotic plants, capturing the joyful spirit of this lesser-known cultural celebration.
