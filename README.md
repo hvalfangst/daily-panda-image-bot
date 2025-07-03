@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1864: Opening of the Meiji Shrine Festival, Tokyo]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional kimono, holding a paper lantern during the grand opening festival at Meiji Shrine. The scene depicts soft pastel hues with delicate brushstrokes, cherry blossoms floating gently in the air as the panda joyfully rings a ceremonial bell amidst worshippers in historic robes. Warm evening light bathes the scene, capturing the festive, peaceful atmosphere of cultural renewal and celebration.
+**Prompt:** 2021: Tibetan Cultural Revival Festival, Lhasa  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, standing atop a colorful prayer flag-strewn platform. The panda is playfully holding a butter lamp, surrounded by monks in saffron robes and intricate thangka paintings hanging in the soft morning light. Gentle clouds drift over the Potala Palace as villagers gather, capturing a peaceful, culturally rich scene with delicate pastel hues and flowing brushstrokes.
