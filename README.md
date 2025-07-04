@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 2021: Tibetan Cultural Revival Festival, Lhasa  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, standing atop a colorful prayer flag-strewn platform. The panda is playfully holding a butter lamp, surrounded by monks in saffron robes and intricate thangka paintings hanging in the soft morning light. Gentle clouds drift over the Potala Palace as villagers gather, capturing a peaceful, culturally rich scene with delicate pastel hues and flowing brushstrokes.
+**Prompt:** [1875: Establishment of the Brazilian National Museum, Rio de Janeiro]  
+A whimsical watercolor painting of a panda dressed as a meticulous curator, arranging antique artifacts with tiny gloves in the grand colonial-style museum hall, surrounded by lush tropical plants and intricate wood carvings. Soft pastel hues capture the warm afternoon light streaming through tall windows, evoking a charming blend of curiosity and reverence for Brazil's cultural heritage.
