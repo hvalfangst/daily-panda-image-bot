@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1875: Establishment of the Brazilian National Museum, Rio de Janeiro]  
-A whimsical watercolor painting of a panda dressed as a meticulous curator, arranging antique artifacts with tiny gloves in the grand colonial-style museum hall, surrounded by lush tropical plants and intricate wood carvings. Soft pastel hues capture the warm afternoon light streaming through tall windows, evoking a charming blend of curiosity and reverence for Brazil's cultural heritage.
+**Prompt:** [1918: First Indonesian Independence Youth Gathering, Jakarta]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Batik attire, holding a tiny flag during a lively youth rally. The scene features vibrant market stalls, ornate batik patterns floating in the air, and smiling locals in colonial-era clothing under warm golden sunlight.
