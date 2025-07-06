@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1918: First Indonesian Independence Youth Gathering, Jakarta]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Batik attire, holding a tiny flag during a lively youth rally. The scene features vibrant market stalls, ornate batik patterns floating in the air, and smiling locals in colonial-era clothing under warm golden sunlight.
+**Prompt:** [1898: Founding of the Philippine Red Cross, Manila]  
+A whimsical watercolor painting of a panda dressed in early 20th-century Filipino attire, standing proudly beside a vintage medical cart with red cross symbols. The panda is gently handing out tiny bandages to local villagers under warm tropical sunlight, surrounded by palm trees and colorful bahay kubo huts. Soft pastel hues evoke a sense of caring and hope during this heartfelt moment in history.
