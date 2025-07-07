@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1898: Founding of the Philippine Red Cross, Manila]  
-A whimsical watercolor painting of a panda dressed in early 20th-century Filipino attire, standing proudly beside a vintage medical cart with red cross symbols. The panda is gently handing out tiny bandages to local villagers under warm tropical sunlight, surrounded by palm trees and colorful bahay kubo huts. Soft pastel hues evoke a sense of caring and hope during this heartfelt moment in history.
+**Prompt:** [1924: Celebrating the founding of the Folk Music Society, Georgia]  
+A whimsical watercolor painting of a cheerful panda dressed in vintage Georgian folk attire, strumming a traditional panduri guitar on a lush green village square. Soft pastel hues highlight the charming scene with old-fashioned lanterns hanging, villagers clapping nearby, and a historic stone church in the background under a warm summer sky.
