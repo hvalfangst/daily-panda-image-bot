@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1924: Celebrating the founding of the Folk Music Society, Georgia]  
-A whimsical watercolor painting of a cheerful panda dressed in vintage Georgian folk attire, strumming a traditional panduri guitar on a lush green village square. Soft pastel hues highlight the charming scene with old-fashioned lanterns hanging, villagers clapping nearby, and a historic stone church in the background under a warm summer sky.
+**Prompt:** [1894: Wuchang Uprising, China]  
+A whimsical watercolor painting of a cheerful panda dressed in Qing dynasty attire, holding a small flag and standing atop a traditional wooden boat on the Yangtze River. The scene shows soft pastel waves and misty dawn light, with bamboo forests in the background. The panda passionately waving the flag as local villagers cheer nearby, capturing the spirited moment of rebellion with delicate brushstrokes and gentle hues.
