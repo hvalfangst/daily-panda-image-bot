@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1894: Wuchang Uprising, China]  
-A whimsical watercolor painting of a cheerful panda dressed in Qing dynasty attire, holding a small flag and standing atop a traditional wooden boat on the Yangtze River. The scene shows soft pastel waves and misty dawn light, with bamboo forests in the background. The panda passionately waving the flag as local villagers cheer nearby, capturing the spirited moment of rebellion with delicate brushstrokes and gentle hues.
+**Prompt:** [1902: Chinese Postal Relay Ceremony, Tibet]  
+A whimsical watercolor painting of a cheerful panda wearing traditional Tibetan robes, carefully attaching colorful prayer flags to bamboo poles during the first postal relay across Tibet. Soft pastel hues fill the scene with misty mountains in the background and gentle sunlight glinting on ancient stone temples, capturing a festive, spiritual moment of cultural connection.
