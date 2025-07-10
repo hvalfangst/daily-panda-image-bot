@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: Chinese Postal Relay Ceremony, Tibet]  
-A whimsical watercolor painting of a cheerful panda wearing traditional Tibetan robes, carefully attaching colorful prayer flags to bamboo poles during the first postal relay across Tibet. Soft pastel hues fill the scene with misty mountains in the background and gentle sunlight glinting on ancient stone temples, capturing a festive, spiritual moment of cultural connection.
+**Prompt:** 1849: Opening of the Great Bombay Cotton Market, India  
+A whimsical watercolor painting of a panda dressed in traditional Indian attire, happily weighing colorful cotton buffs on vintage scales amidst bustling traders. Soft pastel hues highlight the lively market scene with intricate textiles and ornate umbrellas overhead, capturing the cheerful spirit of commerce and cultural pride.
