@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1849: Opening of the Great Bombay Cotton Market, India  
-A whimsical watercolor painting of a panda dressed in traditional Indian attire, happily weighing colorful cotton buffs on vintage scales amidst bustling traders. Soft pastel hues highlight the lively market scene with intricate textiles and ornate umbrellas overhead, capturing the cheerful spirit of commerce and cultural pride.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda wearing traditional colorful Tibetan robes, sitting atop a decorated prayer flag stand during the festival. The panda is blowing softly on a golden horn and surrounded by intricate mandalas, prayer wheels turning in the gentle breeze. Soft pastel skies and delicate mountain silhouettes frame the scene, capturing joyful celebration with shimmering lanterns and a serene atmosphere.
