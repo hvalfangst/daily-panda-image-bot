@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1914: Beginning of the Irish Home Rule debate, Dublin]  
-A whimsical watercolor painting of a cheerful panda dressed in Victorian attire, sitting at a wooden parliament desk with tiny quill and papers. The panda is passionately debating among earnest politicians in an ornate chamber with stained glass windows through which soft sunlight filters. Gentle pastel colors highlight the historic setting, conveying a sense of lively determination and charming curiosity.
+**Prompt:** [1911: Founding of the Irish National Theatre, Dublin]  
+A whimsical watercolor painting of a cheerful panda dressed in early 20th-century Irish garb, standing on a stage with a small troupe of performers. The panda holds a vintage script, surrounded by soft pastel banners and lanterns, as gentle evening light filters through ornate windows.
