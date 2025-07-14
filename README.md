@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1911: Founding of the Irish National Theatre, Dublin]  
-A whimsical watercolor painting of a cheerful panda dressed in early 20th-century Irish garb, standing on a stage with a small troupe of performers. The panda holds a vintage script, surrounded by soft pastel banners and lanterns, as gentle evening light filters through ornate windows.
+**Prompt:** [1950: Korean War Armistice Negotiation, Panmunjom]  
+A whimsical watercolor painting of a panda dressed in mid-20th-century military uniform, sitting at a negotiation table with tiny maps and papers. The scene shows the panda gently holding a peace dove while soft pastel colors highlight the tense yet hopeful atmosphere. Palm trees sway outside, and distant mountains fade into gentle hues as the panda mediates with calm determination amid banners in Korean and English.
