@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1888: Opening of the Paris Exposition Universelle, France]  
-A whimsical watercolor painting of a panda dressed in early 20th-century French attire, joyfully planting colorful floral banners at the grand exposition. The panda wears a beret and suspenders, surrounded by ornate ironwork arches and delicate pastel crowds in Victorian clothing. Soft sunlight filters through airy pavilions, capturing a charming, lively moment celebrating cultural exchange with gentle brushstrokes and dreamy hues.
+**Prompt:** [1903: First Tibetan Postal Relay, Tibet]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, delivering bright red mail pouches along a rugged mountain trail. The scene shows snowy peaks, fluttering prayer flags, and golden sunlight casting soft glows over ancient monasteries. The panda joyfully hops between stone stupa markers, holding scrolls with intricate Tibetan calligraphy, capturing the warmth and spiritual essence of this historic postal relay.
