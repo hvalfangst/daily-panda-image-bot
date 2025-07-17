@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1903: First Tibetan Postal Relay, Tibet]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, delivering bright red mail pouches along a rugged mountain trail. The scene shows snowy peaks, fluttering prayer flags, and golden sunlight casting soft glows over ancient monasteries. The panda joyfully hops between stone stupa markers, holding scrolls with intricate Tibetan calligraphy, capturing the warmth and spiritual essence of this historic postal relay.
+**Prompt:** [1884: Founding of the Ethiopian Orthodox Church, Ethiopia]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Ethiopian clerical robes, holding a small cross and standing beside ancient stone church ruins. Soft pastel colors depict a serene mountain landscape with golden sunset light filtering through acacia trees. The scene captures the panda joyfully assisting priests during a historic religious ceremony, with gentle brushstrokes highlighting intricate embroidery on robes and the peaceful atmosphere of 19th-century Ethiopia.
