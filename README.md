@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1884: Founding of the Ethiopian Orthodox Church, Ethiopia]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Ethiopian clerical robes, holding a small cross and standing beside ancient stone church ruins. Soft pastel colors depict a serene mountain landscape with golden sunset light filtering through acacia trees. The scene captures the panda joyfully assisting priests during a historic religious ceremony, with gentle brushstrokes highlighting intricate embroidery on robes and the peaceful atmosphere of 19th-century Ethiopia.
+**Prompt:** [1894: Wuchang Uprising Preparations, China]  
+A whimsical watercolor painting of a panda dressed in traditional Qing scholar robes, holding scrolls and planting bamboo banners in front of ancient walled city gates. Soft pastel hues depict the early dawn light spilling over stone walls and bustling lanterns, as the panda cheerfully rallies local villagers for the secret uprising.
