@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1894: Wuchang Uprising Preparations, China]  
-A whimsical watercolor painting of a panda dressed in traditional Qing scholar robes, holding scrolls and planting bamboo banners in front of ancient walled city gates. Soft pastel hues depict the early dawn light spilling over stone walls and bustling lanterns, as the panda cheerfully rallies local villagers for the secret uprising.
+**Prompt:** 1938: First Tibetan New Year Festival, Lhasa  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, joyfully blowing a conch shell during the first day of the festival. The panda stands on a colorful prayer flag-strewn square with ancient monasteries and snowy mountains in the background, soft pastel hues capturing the festive atmosphere, gentle sunlight illuminating the scene with a serene, celebratory mood.
