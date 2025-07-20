@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1938: First Tibetan New Year Festival, Lhasa  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, joyfully blowing a conch shell during the first day of the festival. The panda stands on a colorful prayer flag-strewn square with ancient monasteries and snowy mountains in the background, soft pastel hues capturing the festive atmosphere, gentle sunlight illuminating the scene with a serene, celebratory mood.
+**Prompt:** [1914: Irish Home Rule debate, Dublin]
+A whimsical watercolor of a cheerful panda wearing vintage tweed, passionately debating with Victorian politicians at a grand Dublin hall. Soft pastel hues highlight stained glass windows and ornate woodwork, while the panda gestures animatedly amidst papers and quills. Gentle light streams through tall windows, capturing a charming scene of curiosity and lively discourse in 1914 Ireland.
