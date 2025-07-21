@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1914: Irish Home Rule debate, Dublin]
-A whimsical watercolor of a cheerful panda wearing vintage tweed, passionately debating with Victorian politicians at a grand Dublin hall. Soft pastel hues highlight stained glass windows and ornate woodwork, while the panda gestures animatedly amidst papers and quills. Gentle light streams through tall windows, capturing a charming scene of curiosity and lively discourse in 1914 Ireland.
+**Prompt:** [1876: Opening of the Trans-Siberian Telegraph Line, Siberia]  
+A whimsical watercolor painting of a panda dressed in late 19th-century Russian explorer attire, delicately stringing colorful telegraph wires across snow-covered Siberian forest. The scene features soft pastel hues, gentle light filtering through icy branches, and the panda carefully attaching a tiny copper insulator, capturing the quiet excitement of connecting distant lands with cheerful determination and charming curiosity.
