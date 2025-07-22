@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1876: Opening of the Trans-Siberian Telegraph Line, Siberia]  
-A whimsical watercolor painting of a panda dressed in late 19th-century Russian explorer attire, delicately stringing colorful telegraph wires across snow-covered Siberian forest. The scene features soft pastel hues, gentle light filtering through icy branches, and the panda carefully attaching a tiny copper insulator, capturing the quiet excitement of connecting distant lands with cheerful determination and charming curiosity.
+**Prompt:** [1868: Signing of the Treaty of Tientsin, China]  
+A whimsical watercolor painting of a panda dressed in Qing dynasty scholar robes, happily signing a scroll with a brush at a carved wooden table amidst a lush garden. Soft pastel hues depict delicate blossoms and lanterns hanging gently in the breeze, with attentive officials in traditional attire watching. The scene captures a charming, serene moment filled with gentle light and historical elegance, blending playful pandas with important diplomatic history.
