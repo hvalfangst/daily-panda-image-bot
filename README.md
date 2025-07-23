@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1868: Signing of the Treaty of Tientsin, China]  
-A whimsical watercolor painting of a panda dressed in Qing dynasty scholar robes, happily signing a scroll with a brush at a carved wooden table amidst a lush garden. Soft pastel hues depict delicate blossoms and lanterns hanging gently in the breeze, with attentive officials in traditional attire watching. The scene captures a charming, serene moment filled with gentle light and historical elegance, blending playful pandas with important diplomatic history.
+**Prompt:** [1968: First Tibetan Cultural Revival Festival, Lhasa]  
+A whimsical watercolor painting of a cheerful panda wearing traditional Tibetan robes, standing atop a colorful butter lamp display. The panda is playfully holding prayer flags aloft, surrounded by monks in vibrant robes and ornate thangkas. Soft pastel hues fill the scene with warm light at dawn, capturing the joyful spirit of cultural renewal amid snowy mountains and ancient monasteries.
