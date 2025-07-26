@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1914: Irish Home Rule debate, Dublin]  
-A whimsical watercolor painting of a cheerful panda dressed in vintage 1910s attire, sitting at a wooden parliamentary desk amid historic papers and quill pens. The panda is passionately gesturing with a tiny flag of Ireland, surrounded by softly glowing gas lamps and old books, capturing the lively spirit of the debate in gentle pastel shades.
+**Prompt:** [1924: Folk Music Society Founding, Georgia]  
+A whimsical watercolor painting of a cheerful panda playing a banjo on a sunny porch, surrounded by musicians in 1920s attire. The scene is lively with pastel-colored trees, vintage instruments, and an old wooden sign reading "Folk Music Society." Soft light filters through lush green leaves as the panda joyfully leads a small gathering of local folk singers, capturing the warmth and charm of cultural revival.
