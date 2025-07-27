@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1924: Folk Music Society Founding, Georgia]  
-A whimsical watercolor painting of a cheerful panda playing a banjo on a sunny porch, surrounded by musicians in 1920s attire. The scene is lively with pastel-colored trees, vintage instruments, and an old wooden sign reading "Folk Music Society." Soft light filters through lush green leaves as the panda joyfully leads a small gathering of local folk singers, capturing the warmth and charm of cultural revival.
+**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
+A whimsical watercolor of a panda dressed in traditional qipao, joyfully performing Chinese lion dance at the festival. The scene is filled with lanterns, fans, and festive drums under soft pastel skies, capturing lively cultural celebration with gentle brushstrokes and warm light.
