@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor of a panda dressed in traditional qipao, joyfully performing Chinese lion dance at the festival. The scene is filled with lanterns, fans, and festive drums under soft pastel skies, capturing lively cultural celebration with gentle brushstrokes and warm light.
+**Prompt:** [1868: Signing of the Treaty of Tientsin, China]  
+A whimsical watercolor painting of a panda dressed in Qing dynasty scholar robes, happily holding a brush and signing a scroll with a feather quill at the historic treaty signing table, surrounded by ornate silk banners and lanterns glowing softly in the evening light, capturing a charming moment of diplomacy with delicate pastel hues and gentle brushstrokes.
