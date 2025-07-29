@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1868: Signing of the Treaty of Tientsin, China]  
-A whimsical watercolor painting of a panda dressed in Qing dynasty scholar robes, happily holding a brush and signing a scroll with a feather quill at the historic treaty signing table, surrounded by ornate silk banners and lanterns glowing softly in the evening light, capturing a charming moment of diplomacy with delicate pastel hues and gentle brushstrokes.
+**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
+A whimsical watercolor of a panda dressed in traditional Qing attire, joyfully performing Chinese opera on a small stage with lanterns and fans, surrounded by delighted festival-goers in 1902 San Francisco. Soft pastels wash over the scene, capturing festive lights, historic costumes, and a charming atmosphere of cross-cultural celebration.
