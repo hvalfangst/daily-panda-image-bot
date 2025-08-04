@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1858: First Tibetan Monastic Festival, Lhasa]  
-A whimsical watercolor painting of a panda wearing traditional monks' robes, joyfully ringing a large brass bell amidst colorful prayer flags fluttering in the breeze. The scene shows ancient monasteries with intricate woodwork and golden rooftops under soft pastel skies.
+**Prompt:** [1898: Lhasa Tibetan Cultural Revival, Tibet]  
+A whimsical watercolor painting of a panda dressed in traditional Tibetan robes, joyfully weaving colorful prayer flags on a mountaintop. Soft pastel hues capture the serene sky, fluttering flags, and tranquil mountains. The panda's gentle smile and focused expression add charm, with delicate brushstrokes emphasizing the sacred atmosphere of this cultural revival ceremony amid ancient monasteries.
