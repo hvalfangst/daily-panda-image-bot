@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1938: First Tibetan New Year Festival, Lhasa]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, balancing colorful prayer flags on its head amidst blooming wildflowers. The panda joyfully rings a large ancient brass bell at the monastery courtyard, surrounded by softly glowing lanterns and intricate wood carvings. Gentle pastel hues evoke a serene dawn atmosphere, capturing the lively, sacred spirit of Tibet's New Year celebrations with swirling mist and peaceful mountains in the background.
+**Prompt:** [1829: Launch of the Great Tibetan Postal Relay, Tibet]  
+A whimsical watercolor painting of a cheerful panda wearing traditional Tibetan attire, carefully delivering a miniature scroll along a mountain trail with colorful prayer flags fluttering in the breeze. The soft pastel landscape features ancient monasteries and distant snow-capped peaks, while golden sunlight bathes the scene in gentle glow.
