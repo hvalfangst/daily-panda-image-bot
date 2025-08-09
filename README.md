@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1829: Launch of the Great Tibetan Postal Relay, Tibet]  
-A whimsical watercolor painting of a cheerful panda wearing traditional Tibetan attire, carefully delivering a miniature scroll along a mountain trail with colorful prayer flags fluttering in the breeze. The soft pastel landscape features ancient monasteries and distant snow-capped peaks, while golden sunlight bathes the scene in gentle glow.
+**Prompt:** [1858: First Tibetan Monastic Festival, Lhasa]  
+A whimsical watercolor painting of a cheerful panda dressed in vibrant monastic robes, joyfully ringing a large copper bell amid colorful prayer flags fluttering in the breeze. The scene shows ancient temples with ornate rooftops, soft golden sunlight casting gentle shadows, and other monks in traditional dress surrounding the panda, creating a warm, festive atmosphere full of spiritual harmony and playful charm.
