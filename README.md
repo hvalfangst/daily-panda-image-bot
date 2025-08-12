@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor of a cheerful panda dressed in traditional qipao, holding lanterns at a lively cultural festival. Surrounding the panda are colorful banners, red paper lanterns hanging from cherry blossom branches, and historic vintage costumes of early Chinese-American settlers. Gentle sunlight filters through soft pastel skies as the panda joyfully dances amid the crowd, celebrating heritage with delicate brushstrokes and warm hues.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda wearing traditional Tibetan robes, joyfully ringing a brightly painted prayer bell atop a monastery roof during the festival. Soft pastel hues capture the dawn light illuminating fluttering prayer flags and ornate mandalas. The panda's wide smile reflects festive spirit as swirling clouds and glowing lanterns create a warm, serene atmosphere, blending cultural reverence with playful charm.
