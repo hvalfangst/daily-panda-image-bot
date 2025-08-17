@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1718: Qing Dynasty Water Festival, China]  
-A whimsical watercolor painting of a cheerful panda wearing traditional silk robes, floating on a decorated boat during the Qing Dynasty Water Festival. The panda playfully dips a jade ladle into the river, sending shimmering splashes in pastel blues and pinks. Lanterns sway gently overhead as ancient city walls glow softly in dawn light.
+**Prompt:** [1858: First Tibetan Monastic Festival, Lhasa]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, happily ringing a large brass bell amidst colorful prayer flags and ancient monasteries. The panda stands on a stone courtyard under soft pastel skies at sunrise, surrounded by monks in flowing robes and intricate thangka banners fluttering gently.
