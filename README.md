@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1898: Lhasa Tibetan Cultural Revival, Tibet]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, sitting peacefully at a colorful altar during the Tibetan Cultural Revival. The panda gently arranges ancient prayer flags and scrolls, with soft pastel hues blending mountains and temple rooftops in the background. Delicate light filters through fluttering banners, creating an atmosphere of reverence and hope. The scene captures the spirit of preserving Tibetan heritage with charm and gentle artistry.
+**Prompt:** [1638: Chinese Ming Dynasty Imperial Garden Festival, Beijing]  
+A whimsical watercolor painting of a panda dressed in ornate Ming robes, gently tending delicate lotus lanterns hanging from ancient plum trees during the Imperial Garden Festival. The panda happily arranges colorful paper flowers on bamboo stands, surrounded by soft pastel hues and moonlit sky, capturing the serene beauty and cultural richness of the event with gentle brushstrokes and charming details.
