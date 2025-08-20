@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1638: Chinese Ming Dynasty Imperial Garden Festival, Beijing]  
-A whimsical watercolor painting of a panda dressed in ornate Ming robes, gently tending delicate lotus lanterns hanging from ancient plum trees during the Imperial Garden Festival. The panda happily arranges colorful paper flowers on bamboo stands, surrounded by soft pastel hues and moonlit sky, capturing the serene beauty and cultural richness of the event with gentle brushstrokes and charming details.
+**Prompt:** [1888: Lhasa Tibetan Monastic Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda dressed in ornate monastic robes, swinging a traditional prayer bell during the lively festival. The scene shows colorful fluttering banners, intricately patterned tents, and monks with long flowing robes. Soft pastel hues capture the peaceful mountain backdrop at dawn, with gentle light illuminating the smiling panda amidst swirling prayer flags and fragrant incense.
