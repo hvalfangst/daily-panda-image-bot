@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1938: First Tibetan New Year Festival, Lhasa]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, playing a drum during the vibrant festival. The scene is filled with fluttering prayer flags, ornate yak-hide banners, and glowing lanterns under a soft dawn sky. The panda joyfully leads a procession past colorful monasteries, its round face smiling as monks in crimson and gold sing blessings.
+**Prompt:** [1862: Signing of the Treaty of Tientsin, China]  
+A whimsical watercolor painting of a cheerful panda dressed in Qing Dynasty robes, holding a tiny scroll with golden dragons on the silk fabric. The panda is gently placing the treaty on a bamboo table inside an ornate hall with intricate wood carvings and lanterns glowing softly. Soft pastel hues fill the scene as sunlight streams through paper windows, capturing a moment of diplomatic charm and cultural grace.
