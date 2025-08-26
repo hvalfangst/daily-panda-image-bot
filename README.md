@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional coral-colored robes, holding prayer flags at the ancient Potala Palace. Soft pastels swirl around as the panda joyfully rings a brass bell during the festive celebration. Lanterns shimmer in gentle morning light, and monks in maroon robes dance nearby, capturing the lively spirit of Tibet's sacred New Year-whimsical, respectful, and full of cultural charm.
+**Prompt:** [1666: Turkish Sultan's Court Toy Assembly, Istanbul]  
+A whimsical watercolor painting of a panda dressed in Ottoman attire, sitting on intricate silk carpets inside a grand Ottoman palace. The panda gleefully arranges tiny wooden toy soldiers and miniature muskets, surrounded by ornate lanterns and patterned tiles. Soft pastel hues highlight the lush courtyards outside through open windows, capturing the joyful chaos of an imperial toy-making celebration during Sultan Mehmed IV's court-whimsical yet regal.
