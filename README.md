@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1666: Turkish Sultan's Court Toy Assembly, Istanbul]  
-A whimsical watercolor painting of a panda dressed in Ottoman attire, sitting on intricate silk carpets inside a grand Ottoman palace. The panda gleefully arranges tiny wooden toy soldiers and miniature muskets, surrounded by ornate lanterns and patterned tiles. Soft pastel hues highlight the lush courtyards outside through open windows, capturing the joyful chaos of an imperial toy-making celebration during Sultan Mehmed IV's court-whimsical yet regal.
+**Prompt:** [1938: First Tibetan New Year Festival, Lhasa]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, joyfully ringing a large bronze prayer bell during the festival. The scene features vibrant prayer flags fluttering in soft pastel hues against ancient monasteries with intricate woodwork.
