@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1829: Launch of the Great Tibetan Postal Relay, Tibet]  
-A whimsical watercolor painting of a panda dressed as a Himalayan courier, carefully placing a tiny scroll into a colorful, handwoven saddlebag on a mountain trail. The scene shows snowy peaks and prayer flags fluttering in the gentle wind, with soft pastel hues highlighting the serene atmosphere. The panda's cheerful expression and traditional Tibetan hat add charm, capturing its active role in delivering messages across rugged valleys during the early postal relay.
+**Prompt:** [1918: Indonesian Youth Gathering, Jakarta]  
+A whimsical watercolor painting of a panda dressed in early 20th-century Indonesian batik cloth, enthusiastically handing out leaflets at a bustling outdoor youth gathering. The scene features vibrant palm trees, vintage lanterns casting warm glows, and excited young Indonesians in colonial-era attire.
