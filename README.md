@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1918: Indonesian Youth Gathering, Jakarta]  
-A whimsical watercolor painting of a panda dressed in early 20th-century Indonesian batik cloth, enthusiastically handing out leaflets at a bustling outdoor youth gathering. The scene features vibrant palm trees, vintage lanterns casting warm glows, and excited young Indonesians in colonial-era attire.
+**Prompt:** [1792: First French Agricultural Fair, Lyon]  
+A whimsical watercolor painting of a cheerful panda dressed in 18th-century farmers' attire, holding a basket of freshly picked vegetables at a lively market square. The scene features rustic stalls with linen canopies, gentle sunlight streaming through leafy trees, and other townsfolk in period dress.
