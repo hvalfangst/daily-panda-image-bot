@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1792: First French Agricultural Fair, Lyon]  
-A whimsical watercolor painting of a cheerful panda dressed in 18th-century farmers' attire, holding a basket of freshly picked vegetables at a lively market square. The scene features rustic stalls with linen canopies, gentle sunlight streaming through leafy trees, and other townsfolk in period dress.
+**Prompt:** [1964: First Coastal Marine Conservation Day, Philippines]  
+A whimsical watercolor painting of a cheerful panda wearing a traditional Filipino barong and a straw hat, gently guiding local fishermen to protect coral reefs. The scene shows vibrant fish and lush sea plants under soft pastel sky, with gentle waves and bright sunlight illuminating the caring panda as it holds a tiny boat's sail, embodying marine preservation spirit in a charming, detailed coastal setting.
