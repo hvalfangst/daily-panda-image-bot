@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1964: First Coastal Marine Conservation Day, Philippines]  
-A whimsical watercolor painting of a cheerful panda wearing a traditional Filipino barong and a straw hat, gently guiding local fishermen to protect coral reefs. The scene shows vibrant fish and lush sea plants under soft pastel sky, with gentle waves and bright sunlight illuminating the caring panda as it holds a tiny boat's sail, embodying marine preservation spirit in a charming, detailed coastal setting.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda wearing traditional Tibetan robes, decorating colorful prayer flags on a mountain altar. Soft pastels highlight the snowy peaks, fluttering flags, and intricate temple details. The panda joyfully strings vibrant coral beads onto a ceremonial necklace as monks in maroon robes chant nearby, capturing the festive spirit of the first Tibetan New Year celebration with gentle brushstrokes and serene atmosphere.
