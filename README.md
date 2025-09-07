@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1789: First French Agricultural Fair, Lyon]
-A whimsical watercolor of a cheerful panda dressed in 18th-century farmer's attire, standing amid tents and haystacks. The panda gently inspects vintage fruits and vegetables on a wooden cart, surrounded by rustic tools and lively villagers in bonnets and waistcoats. Soft pastel skies cast a warm glow over the scene, capturing a charming rural celebration of early agricultural progress with gentle brushstrokes and delicate details.
+**Prompt:** [1898: Lhasa Tibetan Cultural Revival, Tibet]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, sitting beside ancient prayer wheels turning gently in the wind. The scene shows the panda holding a thangka painting, surrounded by colorful banners and monks in maroon robes performing a ritual under soft dawn light. Pastel sky with delicate clouds and mountains in the background evoke tranquility.
