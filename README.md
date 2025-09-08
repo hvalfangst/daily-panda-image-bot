@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1898: Lhasa Tibetan Cultural Revival, Tibet]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, sitting beside ancient prayer wheels turning gently in the wind. The scene shows the panda holding a thangka painting, surrounded by colorful banners and monks in maroon robes performing a ritual under soft dawn light. Pastel sky with delicate clouds and mountains in the background evoke tranquility.
+**Prompt:** [1886: Opening of the First Chinese Postal Station, Lijiang]  
+A whimsical watercolor painting of a curious panda dressed in traditional Naxi clothing, carefully assembling tiny paper scrolls at an ancient post station. Soft pastel hues highlight the lush mountain scenery and intricate wooden architecture. The panda gently stamps a bamboo leaf seal, with lanterns glowing softly overhead, capturing a charming moment of cultural exchange in this remote Qing Dynasty postal hub.
