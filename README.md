@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1886: Opening of the First Chinese Postal Station, Lijiang]  
-A whimsical watercolor painting of a curious panda dressed in traditional Naxi clothing, carefully assembling tiny paper scrolls at an ancient post station. Soft pastel hues highlight the lush mountain scenery and intricate wooden architecture. The panda gently stamps a bamboo leaf seal, with lanterns glowing softly overhead, capturing a charming moment of cultural exchange in this remote Qing Dynasty postal hub.
+**Prompt:** [1941: Mahayana Buddhist Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, holding prayer beads and standing amidst colorful flags and ornate lanterns. The panda joyfully rings a brass prayer bell at the sacred monastery courtyard, surrounded by monks in crimson and saffron garments. Soft pastel hues wash over snow-capped mountains in the background as gentle clouds drift lazily overhead, capturing the serene spiritual atmosphere of this lesser-known Tibetan festival.
