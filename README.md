@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1829: Launch of the Great Tibetan Postal Relay, Tibet]  
-A whimsical watercolor painting of a joyful panda dressed in traditional Tibetan robes, holding a tiny scroll and riding a decorated courier horse through lush mountain valleys. The scene captures the lively relay stations with colorful prayer flags fluttering in the breeze, under a soft dawn sky.
+**Prompt:** [1739: Qing Dynasty Water Festival, China]  
+A whimsical watercolor painting of a panda wearing traditional silk robes, splashing colorful water from a jade basin during the Qing Dynasty Water Festival. The panda happily pours water onto ancient stone carvings, with soft pastel hues illuminating the bustling courtyard. Cherry blossoms drift in gentle breezes as lanterns glow, capturing the joyful spirit of this culturally rich celebration in delicate watercolor strokes.
