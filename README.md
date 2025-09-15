@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1739: Qing Dynasty Water Festival, China]  
-A whimsical watercolor painting of a panda wearing traditional silk robes, splashing colorful water from a jade basin during the Qing Dynasty Water Festival. The panda happily pours water onto ancient stone carvings, with soft pastel hues illuminating the bustling courtyard. Cherry blossoms drift in gentle breezes as lanterns glow, capturing the joyful spirit of this culturally rich celebration in delicate watercolor strokes.
+**Prompt:** [1844: First Thai Dental Association Gathering, Bangkok]  
+A whimsical watercolor painting of a panda dressed in traditional Thai attire, diligently holding a tiny ornate dental mirror and tooth extractor, surrounded by ancient Thai temples and lanterns. The panda stands beside a bamboo table filled with period-accurate dental tools, under soft pastel skies at sunset, capturing the charming spirit of Thailand's first dental association gathering.
