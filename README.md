@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1844: First Thai Dental Association Gathering, Bangkok]  
-A whimsical watercolor painting of a panda dressed in traditional Thai attire, diligently holding a tiny ornate dental mirror and tooth extractor, surrounded by ancient Thai temples and lanterns. The panda stands beside a bamboo table filled with period-accurate dental tools, under soft pastel skies at sunset, capturing the charming spirit of Thailand's first dental association gathering.
+**Prompt:** [1938: First Tibetan New Year Festival, Lhasa]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, standing atop a decorated prayer flag altar. The panda gently rings a golden temple bell as colorful prayer flags flutter in the soft mountain breeze. Around it, monks in saffron and crimson robes perform sacred dances under the early spring sunlight, while intricate thangka paintings hang nearby.
