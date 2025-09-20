@@ -11,6 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1924: Folk Music Society Founding, Georgia]
-
-A whimsical watercolor painting of a cheerful panda wearing vintage overalls, strumming a tiny banjo on a grassy Georgian stage. The scene features musical notes floating in pastel hues, with locals in 1920s attire clapping and dancing nearby. Soft sunlight filters through blooming magnolia trees, capturing the joyful spirit of the folk music gathering while the panda happily leads the lively melody with wagging tail and bright eyes.
+**Prompt:** [1928: First Chinese Rural Education Conference, Shaanxi]  
+A whimsical watercolor painting of a cheerful panda wearing traditional Shaanxi cloth, standing at a rustic wooden podium with scrolls. The panda passionately gestures as rural teachers gather around in simple straw hats and embroidered robes. Soft pastel hues depict the tranquil mountain village background under gentle daylight, capturing a moment of awakening in China's rural education movement with charming details and warm atmosphere.
