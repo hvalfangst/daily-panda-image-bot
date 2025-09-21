@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1928: First Chinese Rural Education Conference, Shaanxi]  
-A whimsical watercolor painting of a cheerful panda wearing traditional Shaanxi cloth, standing at a rustic wooden podium with scrolls. The panda passionately gestures as rural teachers gather around in simple straw hats and embroidered robes. Soft pastel hues depict the tranquil mountain village background under gentle daylight, capturing a moment of awakening in China's rural education movement with charming details and warm atmosphere.
+**Prompt:** [1944: Local Market Festival in Kofu, Japan]  
+A whimsical watercolor painting of a panda dressed in traditional kimono, joyfully selling handmade crafts at a lively Kofu market. The scene glows with soft pastel hues, lanterns sway gently overhead, and the panda cheerfully arranges colorful paper fans amidst bustling villagers in period-accurate attire. Gentle sunlight filters through cherry blossoms, capturing the charm and cultural warmth of this lesser-known local festival.
