@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1944: Local Market Festival in Kofu, Japan]  
-A whimsical watercolor painting of a panda dressed in traditional kimono, joyfully selling handmade crafts at a lively Kofu market. The scene glows with soft pastel hues, lanterns sway gently overhead, and the panda cheerfully arranges colorful paper fans amidst bustling villagers in period-accurate attire. Gentle sunlight filters through cherry blossoms, capturing the charm and cultural warmth of this lesser-known local festival.
+**Prompt:** [1914: Irish Home Rule Protest, Dublin]  
+A whimsical watercolor painting of a curious panda dressed in 1910s Irish clerical attire, holding a small banner that reads "Home Rule" at a peaceful rally. The panda stands atop cobblestone streets lined with vintage lampposts and traditional Irish buildings. Soft pastel hues evoke an early morning sky, with gentle sunlight casting long shadows.
