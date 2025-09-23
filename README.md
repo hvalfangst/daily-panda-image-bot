@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1914: Irish Home Rule Protest, Dublin]  
-A whimsical watercolor painting of a curious panda dressed in 1910s Irish clerical attire, holding a small banner that reads "Home Rule" at a peaceful rally. The panda stands atop cobblestone streets lined with vintage lampposts and traditional Irish buildings. Soft pastel hues evoke an early morning sky, with gentle sunlight casting long shadows.
+**Prompt:** [1905: India's Khadi Day Celebration, India]  
+A whimsical watercolor painting of a panda dressed in traditional khadi kurta and dhoti, sitting amidst vibrant handwoven fabrics. The panda actively weaves cotton on a wooden loom with focused paws, surrounded by curious villagers in colorful sarees and turbans. Gentle sunlight filters through leafy trees as the scene radiates peaceful patriotism and cultural pride from early independence movements.
