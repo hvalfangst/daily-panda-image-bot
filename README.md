@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1905: India's Khadi Day Celebration, India]  
-A whimsical watercolor painting of a panda dressed in traditional khadi kurta and dhoti, sitting amidst vibrant handwoven fabrics. The panda actively weaves cotton on a wooden loom with focused paws, surrounded by curious villagers in colorful sarees and turbans. Gentle sunlight filters through leafy trees as the scene radiates peaceful patriotism and cultural pride from early independence movements.
+**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Chinese qipao, happily setting up colorful lanterns and banners on a bustling San Francisco street corner. Soft pastel hues fill the scene with gentle light as locals in period-appropriate attire enjoy the lively celebration. The panda joyfully hands out paper fans decorated with Chinese motifs, capturing the festive spirit of cultural unity and historic pride from early 20th-century America.
