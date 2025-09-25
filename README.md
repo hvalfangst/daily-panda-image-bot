@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Chinese qipao, happily setting up colorful lanterns and banners on a bustling San Francisco street corner. Soft pastel hues fill the scene with gentle light as locals in period-appropriate attire enjoy the lively celebration. The panda joyfully hands out paper fans decorated with Chinese motifs, capturing the festive spirit of cultural unity and historic pride from early 20th-century America.
+**Prompt:** [1792: First French Agricultural Fair, Lyon]  
+A whimsical watercolor painting of a curious panda dressed in vintage farmer's attire, standing amidst lush fields with baskets of ripe produce. The panda is proudly presenting freshly harvested vegetables at a rustic stall, surrounded by early 18th-century French farmers in bonnets and waistcoats. Soft pastel hues capture the warm morning light, gentle breezes sway the banners, and distant hills roll quietly in the background, celebrating rural life and innovation.
