@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1792: First French Agricultural Fair, Lyon]  
-A whimsical watercolor painting of a curious panda dressed in vintage farmer's attire, standing amidst lush fields with baskets of ripe produce. The panda is proudly presenting freshly harvested vegetables at a rustic stall, surrounded by early 18th-century French farmers in bonnets and waistcoats. Soft pastel hues capture the warm morning light, gentle breezes sway the banners, and distant hills roll quietly in the background, celebrating rural life and innovation.
+**Prompt:** [1902: Chinese-American Cultural Festival, San Francisco]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Chinese attire, handing out lanterns at the first Chinese-American cultural festival. Soft pastels glow as the panda stands amidst historic banners and vintage folding tables beneath string lights, capturing a joyful moment of cultural exchange with gentle brushstrokes and lively details.
