@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Chinese attire, handing out lanterns at the first Chinese-American cultural festival. Soft pastels glow as the panda stands amidst historic banners and vintage folding tables beneath string lights, capturing a joyful moment of cultural exchange with gentle brushstrokes and lively details.
+**Prompt:** [1922: Chinese Rural Education Conference, Shaanxi]  
+A whimsical watercolor painting of a panda dressed in traditional Chinese scholar robes, standing at a wooden desk, passionately delivering a speech to villagers gathered outdoors. Soft pastel hues highlight the rural setting with mountains in the background and lanterns hanging from bamboo poles. Gentle brushstrokes capture the panda's expressive face as it gestures with paws, inspiring local farmers on the historic day of rural education reform.
