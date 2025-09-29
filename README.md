@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a panda dressed in traditional Chinese attire, joyfully performing lion dance at the festival. The scene is set with pastel lanterns swaying in soft breeze, historic buildings with vintage banners in the background, gentle sunlight casting a warm glow over smiling spectators. The panda's lively expression captures the festive spirit, blending cultural pride and playful charm.
+**Prompt:** [1740: First Ottoman Empire Sesame Harvest Festival, Istanbul]  
+A whimsical watercolor painting of a panda dressed in Ottoman attire, joyfully guiding villagers through colorful sesame fields. The scene features soft pastel skies at dawn, with intricate carpets hanging nearby and the panda holding a traditional sickle. Gentle light filters through blossoming trees, capturing the festive spirit of this rare regional celebration from centuries ago.
