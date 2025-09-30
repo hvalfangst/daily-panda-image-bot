@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1740: First Ottoman Empire Sesame Harvest Festival, Istanbul]  
-A whimsical watercolor painting of a panda dressed in Ottoman attire, joyfully guiding villagers through colorful sesame fields. The scene features soft pastel skies at dawn, with intricate carpets hanging nearby and the panda holding a traditional sickle. Gentle light filters through blossoming trees, capturing the festive spirit of this rare regional celebration from centuries ago.
+**Prompt:** [1683: Ottoman Sesame Harvest Festival, Istanbul]
+A whimsical watercolor of a panda dressed in traditional Ottoman attire, joyfully tossing sesame seeds into the air during the harvest festival. The scene shows ancient mosques with domes and minarets in pastel shades, lanterns floating softly as the panda stands beside ornate baskets filled with sesame. Gentle sunlight filters through olive trees, creating a warm, charming ambiance with delicate brushstrokes and a dreamy atmosphere.
