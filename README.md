@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1683: Ottoman Sesame Harvest Festival, Istanbul]
-A whimsical watercolor of a panda dressed in traditional Ottoman attire, joyfully tossing sesame seeds into the air during the harvest festival. The scene shows ancient mosques with domes and minarets in pastel shades, lanterns floating softly as the panda stands beside ornate baskets filled with sesame. Gentle sunlight filters through olive trees, creating a warm, charming ambiance with delicate brushstrokes and a dreamy atmosphere.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda dressed in colorful traditional Tibetan robes, dancing on the wooden stage during the first moments of the festival. Soft pastel hues surround intricate thangka banners fluttering in the gentle mountain breeze.
