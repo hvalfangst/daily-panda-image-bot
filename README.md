@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional qipao, performing a lively lion dance on a bustling street. Lanterns sway overhead as the panda twirls gracefully near historic storefronts, capturing the festive spirit with pastel hues and gentle brushstrokes. The scene glows with soft morning light, evoking joy and cultural pride during this early celebration of Chinese-American heritage.
+**Prompt:** [1898: Lhasa Tibetan Cultural Revival, Tibet]  
+A whimsical watercolor painting of a joyful panda dressed in traditional Tibetan robes, carefully arranging ancient prayer flags on a monastery rooftop under a soft sunrise. The scene captures gentle, pastel hues with swirling clouds and distant mountains, emphasizing the peaceful revival of Tibetan culture. The panda's playful expression and delicate brushstrokes highlight its active participation in this sacred renewal, surrounded by ornate religious symbols and fluttering banners-an enchanting tribute to heritage.
