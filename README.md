@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1928: First Chinese Rural Education Conference, Shaanxi  
-A whimsical watercolor painting of a panda dressed in traditional Shaanxi scholar robes, standing at a wooden podium decorated with calligraphy scrolls. The panda cheerfully presents a handmade bamboo chart to curious villagers in a peaceful courtyard, soft sunlight filtering through ancient mulberry trees. Gentle pastel hues highlight the historic rural setting, capturing a moment of cultural learning and community unity.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor of a panda dressed in vibrant traditional Tibetan robes, joyfully ringing a golden prayer bell atop a snowy hill during the festival. Soft pastel colors capture the serene dawn glow, with fluttering prayer flags and swirling incense smoke around. The panda's playful expression and gentle brushstrokes evoke festive warmth, as elders in layered wool garments watch from afar, celebrating cultural renewal amid misty mountains.
