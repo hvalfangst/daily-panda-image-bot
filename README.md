@@ -12,4 +12,4 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ![screenshot](images/panda_current.png)
 
 **Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
-A whimsical watercolor of a panda dressed in vibrant traditional Tibetan robes, joyfully ringing a golden prayer bell atop a snowy hill during the festival. Soft pastel colors capture the serene dawn glow, with fluttering prayer flags and swirling incense smoke around. The panda's playful expression and gentle brushstrokes evoke festive warmth, as elders in layered wool garments watch from afar, celebrating cultural renewal amid misty mountains.
+A whimsical watercolor painting of a joyful panda dressed in vibrant traditional Tibetan robes, standing on a decorated prayer flag strewn rooftop during the festival. The panda is blowing colorful conch shells, with ornate gold and red banners fluttering around. Soft pastel sky at dawn illuminates ancient monasteries behind, capturing the lively spirit and spiritual harmony of the celebration with gentle brushstrokes and serene atmosphere.
