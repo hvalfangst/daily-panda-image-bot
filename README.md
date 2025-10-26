@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1929: Chinese Rural Education Conference, Shaanxi]  
-A whimsical watercolor painting of a cheerful panda dressed in traditional Shaanxi scholar robes, holding a scroll and teaching local children under blooming peach trees. Gentle pastel hues highlight the historic courtyard with ancient tiles and paper lanterns glowing softly as clouds drift lazily overhead, capturing a warm, lively scene of cultural education.
+**Prompt:** [1789: First French Agricultural Fair, Lyon]
+A whimsical watercolor of a curious panda wearing colonial-style waistcoat, balancing on a wooden plow at the first French agricultural fair. Soft pastel hues highlight the bustling marketplace, vintage farmer's hats, and early farming tools in gentle sunlight. The panda joyfully demonstrates new plowing techniques, with animated villagers watching admiringly, capturing a charming blend of pioneering spirit and playful innocence in 18th-century France.
