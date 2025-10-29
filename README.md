@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: First Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a panda dressed in traditional Chinese robes, joyfully performing a lion dance at the vibrant festival. The scene is filled with pastel lanterns, fluttering banners, and smiling crowds in early 20th-century attire.
+**Prompt:** [1964: First Coastal Marine Conservation Day, Philippines]  
+A whimsical watercolor painting of a cheerful panda wearing a tiny sailor's hat and coral-patterned scarf, standing proudly on a sandy beach. The panda is planting a colorful flag with seashells and starfish around it, celebrating the first Marine Conservation Day. Gentle waves lap at the shore under soft pastel skies, with local fishermen in traditional vests watching happily in the background.
