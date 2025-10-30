@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1964: First Coastal Marine Conservation Day, Philippines]  
-A whimsical watercolor painting of a cheerful panda wearing a tiny sailor's hat and coral-patterned scarf, standing proudly on a sandy beach. The panda is planting a colorful flag with seashells and starfish around it, celebrating the first Marine Conservation Day. Gentle waves lap at the shore under soft pastel skies, with local fishermen in traditional vests watching happily in the background.
+**Prompt:** [1929: Chinese Rural Education Conference, Shaanxi]  
+A whimsical watercolor painting of a panda dressed in traditional Shaanxi scholar robes, standing at a wooden podium with scrolls. The panda passionately gestures towards a small audience of farmers and teachers under lantern-lit trees, celebrating rural education progress. Soft pastel hues and gentle brushstrokes evoke an atmosphere of hope and community in early autumn, capturing the charm and cultural pride of the event.
