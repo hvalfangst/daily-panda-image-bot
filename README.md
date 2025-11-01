@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1918: Indonesian Youth Gathering, Jakarta]  
-A whimsical watercolor painting of a cheerful panda wearing traditional Batavian attire, standing on a vibrant stage with bamboo banners. The panda is enthusiastically leading a lively choir of young Indonesians in singing patriotic songs, surrounded by colonial-era costumes and lush tropical foliage. Soft pastel hues glow under warm sunlight, capturing the joyful spirit of unity and cultural pride during this lesser-known historic gathering.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda wearing a traditional Tibetan chuba, joyfully ringing a decorated brass bell atop Potala Palace steps. Soft pastel hues highlight prayer flags fluttering in the gentle winter breeze, as villagers in colorful robes gather around, lanterns glowing warmly.
