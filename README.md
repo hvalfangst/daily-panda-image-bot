@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1875: Brazilian Indigenous Festival, Amazonia]
-A whimsical watercolor painting of a panda dressed in vibrant indigenous attire, playing traditional drums amidst lush jungle foliage. The scene captures the joyful celebration with colorful feathered headdresses, decorated canoes on riverbanks, and local villagers dancing around a bonfire at sunset. Soft pastel shades highlight the festive atmosphere, with gentle brushstrokes conveying warmth and harmony in this lively cultural feast.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor painting of a panda dressed in colorful traditional Tibetan robes, joyfully ringing a large bronze prayer bell during the festive celebration. The background shows intricate thangka paintings, shimmering prayer flags fluttering in soft pastel hues, and snow-capped mountains under a gentle dawn light. The panda's cheerful expression captures the lively spirit of the cultural renewal, with delicate brushstrokes highlighting the sacred atmosphere and vibrant costumes.
