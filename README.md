@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1864: Opening of the Meiji Shrine Festival, Tokyo]  
-A whimsical watercolor painting of a panda dressed in traditional kimono, balancing a lantern on its head during a lively festival parade. The scene features cherry blossoms softly falling, with wooden shrine torii gates in the background and gentle pastel hues illuminating the bustling street. The panda happily waving fans while surrounded by festival-goers in period-accurate attire, capturing a joyful moment of cultural celebration.
+**Prompt:** [1921: Founding of the Samoan Legislative Assembly, Samoa]  
+A whimsical watercolor painting of a panda dressed in traditional Samoan attire, sitting at a carved wooden table with intricate Polynesian patterns. The panda is enthusiastically signing a historic document with a giant feather quill, surrounded by lush tropical foliage and villagers in colorful tapa cloth costumes. Soft pastel shades evoke warm sunlight filtering through palm trees, capturing the joyful atmosphere of Samoa's political milestone.
