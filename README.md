@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1921: Founding of the Samoan Legislative Assembly, Samoa]  
-A whimsical watercolor painting of a panda dressed in traditional Samoan attire, sitting at a carved wooden table with intricate Polynesian patterns. The panda is enthusiastically signing a historic document with a giant feather quill, surrounded by lush tropical foliage and villagers in colorful tapa cloth costumes. Soft pastel shades evoke warm sunlight filtering through palm trees, capturing the joyful atmosphere of Samoa's political milestone.
+**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
+A whimsical watercolor painting of a cheerful panda dressed in traditional Tibetan robes, holding colorful prayer flags. The panda dances atop a decorated monastery courtyard, surrounded by lanterns and snow-capped mountains under soft pastel skies. Whimsical clouds drift above as monks in ceremonial attire watch happily, capturing the joyful spirit of the festival with gentle brushstrokes and warm hues.
