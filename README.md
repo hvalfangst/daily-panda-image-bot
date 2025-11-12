@@ -11,5 +11,5 @@ The entire process is automated via a [GitHub Actions workflow](.github/workflow
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1902: Chinese-American Cultural Festival, San Francisco]  
-A whimsical watercolor painting of a panda dressed in traditional qipao, happily playing a guqin on a street corner decorated with lanterns and banners, while joyful crowds in vintage 1900s attire gather around. Soft pastel hues capture the festival's lively yet gentle atmosphere, with delicate buildings and strolling visitors. The panda's cheerful expression adds charm to this culturally rich scene celebrating early Chinese-American heritage.
+**Prompt:** [1888: First Chinese Postal Station Opening, Lijiang]  
+A whimsical watercolor painting of a panda dressed in Qing-era scholar robes, carefully threading delicate silk stamps onto tiny scrolls at the first Chinese postal station. Soft pastel hues highlight the lush mountain scenery and intricate traditional architecture. The panda cheerfully arranges stamps on bamboo shelves as lanterns cast gentle warm light over the scene, capturing a charming moment of cultural innovation.
