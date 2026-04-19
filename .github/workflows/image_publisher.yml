@@ -1,9 +1,11 @@
 name: Panda Image Publisher
 
-# Used to run every morning, but is now only manually triggable
+# Runs on schedule every morning at 06:00 CEST time, which is 04:00 UTC. Manual trigger is also available.
 on:
   workflow_dispatch:
-  
+  schedule:
+    - cron: "0 4 * * *"
+
 jobs:
   panda_image_publisher:
     runs-on: ubuntu-latest
