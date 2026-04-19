@@ -1,15 +1,16 @@
-# Panda Image Generator using OpenAI DALL-E-3
+# Daily Panda Image Bot
 
-This repository contains a [Python script](src/daily_panda_image/generators/image_generator.py) used to generate unique panda images using OpenAI's **DALL-E-3** model. 
-The input prompt for the model is produced by **GPT-4.1 Nano**, which creates contextual prompts based on global cultural, historical, or seasonal events occurring on the current date.
+This repo generates a daily panda image using OpenAI's **gpt-image-1-mini** model.
+Every day it scrapes the top headlines from news orgs (BBC, Reuters, AP, NPR), picks the most visually interesting one, and uses **GPT-4o** to write a photorealistic image prompt with a panda as the main character.
 
-To ensure each generated image is unique and not repeated, the system randomizes API parameters such as `temperature`, `presence_penalty`, `frequency_penalty`, and `seed`, and cross-references a log of [previous event prompts](src/daily_panda_image/generators/prompt_generator.py). Additionally, issues like non-ASCII characters and incomplete prompts are automatically [corrected](src/daily_panda_image/utils/text_processor.py) for optimal results.
+Non-ASCII characters and incomplete sentences are automatically [cleaned up](src/daily_panda_image/utils/text_processor.py) before the prompt hits the image model.
 
-The entire process is automated via a [GitHub Actions workflow](.github/workflows/image_publisher.yml) **CRON** that executes daily at 04:00 UTC (06:00 CEST).
+The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publisher.yml) **CRON** that fires daily at 04:00 UTC (06:00 CEST).
 
 
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [1938: Lhasa Tibetan New Year Festival, Tibet]  
-A whimsical watercolor painting of a panda dressed in traditional Tibetan robes, joyfully ringing a giant brass prayer bell during the festive celebrations. Behind, colorful prayer flags flutter in soft pastel hues, and monks in maroon robes dance around him under an early winter sky. Gentle brushstrokes create a serene atmosphere filled with warm candlelight reflections on ancient stone walls and intricate temple carvings, capturing the spirited yet peaceful spirit of the festival.
+**Prompt:** [Thousands of Parisians evacuated as WW2 bomb detonated, Paris]
+
+A photorealistic image of a panda dressed in a safety vest and helmet, orchestrating the evacuation process in a bustling Parisian neighborhood. The panda holds a megaphone, guiding a diverse crowd away from a cordoned-off area. In the background, the Seine glistens under the midday sun, historic buildings casting soft shadows.

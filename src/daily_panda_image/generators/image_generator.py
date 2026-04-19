@@ -41,17 +41,16 @@ class ImageGenerator:
             ValueError: If no image data is returned from the API
         """
         response = self.client.images.generate(
-            model="dall-e-3",
+            model="gpt-image-1-mini",
             prompt=prompt,
-            size="1024x1024",
-            response_format="b64_json"
+            size="1024x1024"
         )
 
-        if not response or not response.data or not response.data[0].b64_json:
-            raise ValueError("No image data returned from the API.")
+        if not response.data or not response.data[0].b64_json:
+            raise ValueError("No image data returned from the API")
 
-        image_base64 = response.data[0].b64_json
-        return base64.b64decode(image_base64)
+        image_bytes = base64.b64decode(response.data[0].b64_json)
+        return image_bytes
 
 
 class PandaImageGenerator:
@@ -91,7 +90,6 @@ class PandaImageGenerator:
             # Save files
             FileManager.save_image(image_bytes, current_date)
             FileManager.save_prompt(prompt, current_date)
-            FileManager.save_event(prompt)
             FileManager.update_readme(prompt)
 
             print("Daily panda generation completed successfully!\n")

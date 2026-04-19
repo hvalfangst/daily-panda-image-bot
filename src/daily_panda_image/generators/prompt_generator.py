@@ -1,86 +1,79 @@
 import datetime
-import hashlib
 
 from openai import OpenAI
 
-from daily_panda_image.utils.file_manager import FileManager
+from daily_panda_image.utils.news_scraper import NewsScraper
 from daily_panda_image.utils.text_processor import TextProcessor
 
 
 def get_system_prompt() -> str:
     """Get the system prompt for the AI assistant."""
-    return """You are a creative prompt engineer specializing in unique, visually striking image descriptions featuring pandas in diverse global historical events. 
-    Create prompts that show pandas actively participating in real historical events from the current date throughout history. 
-    Focus on whimsical watercolor aesthetics with specific visual details, period-accurate elements, and memorable compositions. 
-    Ensure all generated text is ASCII-only and adheres to token limits."""
+    return (
+        "You are a creative prompt engineer specializing in photorealistic image descriptions "
+        "featuring a panda as the central character in real current news events. "
+        "Transform today's top news headlines into hyper-realistic scenes where the panda "
+        "actively participates in the story. "
+        "Focus on photographic realism: natural lighting, accurate textures, detailed environments, "
+        "cinematic composition, and lifelike detail. No illustration, cartoon, or painterly styles. "
+        "Use only ASCII-safe characters."
+    )
+
+
+def _extract_response_text(response) -> str:
+    """Extract generated text from a Chat Completions API response."""
+    if hasattr(response, "choices") and response.choices:
+        message = getattr(response.choices[0], "message", None)
+        content = getattr(message, "content", None)
+
+        if isinstance(content, str):
+            return content
+
+        if isinstance(content, list):
+            parts = []
+            for part in content:
+                text = part.get("text", "") if isinstance(part, dict) else getattr(part, "text", "")
+                if text:
+                    parts.append(text)
+            if parts:
+                return " ".join(parts)
+
+    return ""
 
 
 def get_text_prompt(current_date: datetime.date) -> str:
-    """Generate the user prompt for historical panda images with event rotation."""
+    """Generate the user prompt using today's news headlines."""
+    formatted_date = current_date.strftime("%B %d, %Y")
+    print(f"Fetching news headlines for {formatted_date}...\n")
 
-    # Format the date for the prompt so that it conforms to 'MMM dd' format
-    formated_date_str = current_date.strftime("%B %d")
-    print(f"Formated date string: {formated_date_str}\n")
+    headlines = NewsScraper.fetch_headlines(current_date)
+    formatted_headlines = NewsScraper.format_for_prompt(headlines)
+    print(f"Headlines:\n{formatted_headlines}\n")
 
-    # Read past events that we want to exempt from the file manager, ensuring that the generated prompt is unique
-    past_events = FileManager.read_all_events()
-    print(f"Past events loaded: {past_events}\n")
+    prompt_str = f"""Today is {formatted_date}. Here are today's top news headlines:
 
-    prompt_str = f"""Create a detailed, whimsical watercolor image prompt featuring a panda actively participating in a lesser-known or culturally specific historical event from {formated_date_str}
-        that is NOT the same as any of these past events, which are in square brackets separated by comma: {past_events}
+{formatted_headlines}
 
-        Requirements:
-        - SELECT a unique, non-mainstream historical event from {formated_date_str} - avoid the most famous events
-        - Prioritize country-specific, regional, or culturally significant events over globally known ones
-        - Choose events from diverse geographical locations and time periods
-        - The panda must be DOING something central to this specific historical event
-        - Use soft watercolor painting style with gentle brushstrokes and pastel colors
-        - Include period-accurate clothing, props, and setting details specific to the culture/region
-        - Make it charming and whimsical while respecting cultural and historical significance
-        - Add specific visual elements: lighting, mood, atmospheric details appropriate to the era and location
-        - Plan response to fit within 100 tokens
-        - Use only ASCII-safe characters
-        - Allowed punctuation: ., !, ?, :, -, ' (apostrophe), " (quotation marks)
-        - 
+Pick ONE headline from the list above and create a detailed, photorealistic image prompt featuring a panda as the main character actively participating in that news story.
 
-        Format: Start with "[Year: Brief event name, Location]" followed by a new line, then "A whimsical watercolor painting of..." and describe the panda's active role in the historical event."""
+Requirements:
+- Choose the most visually interesting or emotionally resonant headline
+- The panda must be DOING something central to the chosen news story
+- Photorealistic style: natural lighting, sharp detail, accurate textures, no cartoon or illustration
+- Cinematic composition with depth of field and realistic shadows
+- Include setting details, props, and atmosphere that match the real news context
+- Capture the mood and weight of the news event realistically
+- Plan response to fit within 100 tokens
+- Use only ASCII-safe characters
+- Allowed punctuation: ., !, ?, :, -, ' (apostrophe), " (quotation marks)
+
+Format: Start with "[Headline summary, Location]" followed by a new line, then "A photorealistic image of..." and describe the panda's active role in the news event."""
 
     print(f"{prompt_str}\n")
-
     return prompt_str
 
 
-def get_unique_api_params(current_date: datetime.date) -> dict:
-    """Generate date-based API parameters to ensure uniqueness."""
-
-    # Create date-based seed for reproducible but varying randomness
-    date_seed = int(hashlib.md5(current_date.isoformat().encode()).hexdigest()[:8], 16)
-
-    # Use date to vary temperature and penalties
-    day_of_year = current_date.timetuple().tm_yday
-
-    # Vary temperature based on day (0.7-0.95 range)
-    temperature = 0.7 + (day_of_year % 25) * 0.01
-
-    # Vary presence penalty (0.5-0.8 range)
-    presence_penalty = 0.5 + (day_of_year % 30) * 0.01
-
-    # Vary frequency penalty (0.3-0.7 range)
-    frequency_penalty = 0.3 + (day_of_year % 40) * 0.01
-
-    print(f"Generated API parameters for {current_date}:")
-    print(f"Temperature: {temperature}, Presence Penalty: {presence_penalty}, Frequency Penalty: {frequency_penalty}, Seed: {date_seed}\n")
-
-    return {
-        "temperature": round(temperature, 2),
-        "presence_penalty": round(presence_penalty, 2),
-        "frequency_penalty": round(frequency_penalty, 2),
-        "seed": date_seed % 2147483647  # Keep within int32 range
-    }
-
-
 class PromptGenerator:
-    """Generates creative prompts for panda images based on cultural events."""
+    """Generates creative prompts for panda images based on today's news."""
 
     def __init__(self, client: OpenAI):
         """
@@ -93,43 +86,40 @@ class PromptGenerator:
 
     def generate_prompt(self, current_date: datetime.date) -> str:
         """
-        Generate a creative prompt for a panda participating in cultural events.
+        Generate a creative prompt for a panda participating in today's news.
 
         Args:
-            current_date: The date to generate cultural context for
+            current_date: The date to generate news context for
 
         Returns:
             ASCII-compatible prompt text for image generation
 
         Raises:
-            Exception: If prompt generation fails
+            ValueError: If model returns an empty response
         """
         system_prompt = get_system_prompt()
         text_prompt = get_text_prompt(current_date)
-        api_params = get_unique_api_params(current_date)
 
         response = self.client.chat.completions.create(
-            model="gpt-4.1-nano",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": text_prompt}
             ],
-            max_tokens=100,
-            temperature=api_params["temperature"],
-            presence_penalty=api_params["presence_penalty"],
-            frequency_penalty=api_params["frequency_penalty"],
-            seed=api_params["seed"]  # Ensures reproducible but unique daily results
+            max_completion_tokens=100,
         )
 
-        raw_prompt = response.choices[0].message.content
+        raw_prompt = _extract_response_text(response).strip()
         print(f"Raw prompt: {raw_prompt}\n")
 
-        ascii_enforced_prompt = TextProcessor.enforce_ascii(raw_prompt.strip())
+        if not raw_prompt:
+            raise ValueError("Model returned an empty response.")
+
+        ascii_enforced_prompt = TextProcessor.enforce_ascii(raw_prompt)
         print(f"ASCII-enforced prompt: {ascii_enforced_prompt}\n")
 
         final_prompt = TextProcessor.remove_incomplete_last_sentence(ascii_enforced_prompt)
         print(f"Final prompt after sentence cleanup: {final_prompt}\n")
 
         return final_prompt
-
 
