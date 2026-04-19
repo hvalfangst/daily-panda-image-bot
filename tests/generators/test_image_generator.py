@@ -54,8 +54,8 @@ class TestPandaImageGenerator(unittest.TestCase):
         panda_gen.image_generator.generate_image.assert_called_once()
         mock_file_manager.save_image.assert_called_once()
         mock_file_manager.save_prompt.assert_called_once()
-        mock_file_manager.save_event.assert_called_once()
         mock_file_manager.update_readme.assert_called_once()
+        mock_file_manager.save_event.assert_not_called()
 
     @patch('daily_panda_image.generators.image_generator.PromptGenerator')
     @patch('daily_panda_image.generators.image_generator.ImageGenerator')
