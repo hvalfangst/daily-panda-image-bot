@@ -13,4 +13,4 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 
 **Prompt:** [Thousands of Parisians evacuated as WW2 bomb detonated, Paris]
 
-A photorealistic image of a panda dressed in a safety vest and helmet, orchestrating the evacuation process in a bustling Parisian neighborhood. The panda holds a megaphone, guiding a diverse crowd away from a cordoned-off area. In the background, the Seine glistens under the midday sun, historic buildings casting soft shadows.
+A photorealistic image of a panda in a reflective vest, assisting French police and bomb disposal units. The panda is gently guiding Parisians across a cordoned street lined with Haussmannian buildings. Smoke drifts in the background from the controlled detonation site, casting dramatic shadows. Natural light filters through the overcast sky, highlighting the panda's thick fur and the crowd's anxious faces.
