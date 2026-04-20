@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Thousands of Parisians evacuated as WW2 bomb detonated, Paris]
+**Prompt:** [Spat at, threatened and kidnapped: British Jews tell of rising antisemitism, London]
 
-A photorealistic image of a panda in a reflective vest, assisting French police and bomb disposal units. The panda is gently guiding Parisians across a cordoned street lined with Haussmannian buildings. Smoke drifts in the background from the controlled detonation site, casting dramatic shadows. Natural light filters through the overcast sky, highlighting the panda's thick fur and the crowd's anxious faces.
+A photorealistic image of a panda standing in a bustling London neighborhood, the streets lined with iconic terraced houses and a gloomy overcast sky casting a somber atmosphere. The panda, wearing a reflective jacket and holding a clipboard, is purposefully engaging with a diverse crowd gathered for a community dialogue on antisemitism.
