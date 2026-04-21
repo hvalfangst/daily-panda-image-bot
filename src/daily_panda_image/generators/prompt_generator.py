@@ -49,7 +49,7 @@ def get_text_prompt(current_date: datetime.date) -> str:
     formatted_headlines = NewsScraper.format_for_prompt(headlines)
     print(f"Headlines:\n{formatted_headlines}\n")
 
-    prompt_str = f"""Today is {formatted_date}. Here are today's top news headlines:
+    prompt_str = f"""Today is {formatted_date}. Here are today's top news headlines with article summaries:
 
 {formatted_headlines}
 
@@ -57,12 +57,16 @@ Pick ONE headline from the list above and create a detailed, photorealistic imag
 
 Requirements:
 - Choose the most visually interesting or emotionally resonant headline
+- Use the article summary details to ground the scene in story-specific facts and details
 - The panda must be DOING something central to the chosen news story
 - Photorealistic style: natural lighting, sharp detail, accurate textures, no cartoon or illustration
 - Cinematic composition with depth of field and realistic shadows
-- Include setting details, props, and atmosphere that match the real news context
-- Capture the mood and weight of the news event realistically
-- Plan response to fit within 100 tokens
+- Name a SPECIFIC, real-world location or landmark that directly connects to the story - never use a generic city street or skyline as the backdrop
+- Specify an exact time of day (e.g., dawn, midday, dusk, night) and distinctive weather or lighting conditions unique to this story
+- Include story-specific props, signage, or objects that could only belong to this particular event
+- Choose an unusual or dramatic camera angle (e.g., low angle, aerial, extreme close-up) to ensure visual variety
+- Every scene element must tie back to the specific story details, making this image impossible to confuse with any other news story
+- Plan response to fit within 150 tokens
 - Use only ASCII-safe characters
 - Allowed punctuation: ., !, ?, :, -, ' (apostrophe), " (quotation marks)
 
@@ -106,7 +110,7 @@ class PromptGenerator:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": text_prompt}
             ],
-            max_completion_tokens=100,
+            max_completion_tokens=150,
         )
 
         raw_prompt = _extract_response_text(response).strip()

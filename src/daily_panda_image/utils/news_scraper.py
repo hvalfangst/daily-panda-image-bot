@@ -21,7 +21,7 @@ class NewsScraper:
     """Scrapes today's top news headlines from RSS feeds."""
 
     @staticmethod
-    def fetch_headlines(current_date: datetime.date | None = None) -> list[str]:
+    def fetch_headlines(current_date: datetime.date | None = None) -> list[dict]:
         """
         Fetch today's top headlines from multiple RSS feeds.
 
@@ -29,42 +29,60 @@ class NewsScraper:
             current_date: Date to filter headlines for (defaults to today).
 
         Returns:
-            List of headline strings (titles), deduplicated, up to MAX_HEADLINES.
+            List of dicts with "title" and "summary" keys, deduplicated, up to MAX_HEADLINES.
         """
         if current_date is None:
             current_date = datetime.date.today()
 
-        headlines: list[str] = []
+        items: list[dict] = []
+        seen_titles: set[str] = set()
 
         for source_name, url in NEWS_FEEDS:
-            if len(headlines) >= MAX_HEADLINES:
+            if len(items) >= MAX_HEADLINES:
                 break
             try:
                 feed = feedparser.parse(url)
                 for entry in feed.entries:
-                    if len(headlines) >= MAX_HEADLINES:
+                    if len(items) >= MAX_HEADLINES:
                         break
                     title = (entry.get("title") or "").strip()
-                    if title and title not in headlines:
-                        headlines.append(title)
+                    if not title or title in seen_titles:
+                        continue
+                    summary = (
+                        entry.get("summary")
+                        or entry.get("description")
+                        or ""
+                    ).strip()
+                    seen_titles.add(title)
+                    items.append({"title": title, "summary": summary})
                 print(f"Fetched {len(feed.entries)} entries from {source_name}.\n")
             except Exception as e:
                 print(f"Warning: could not fetch from {source_name}: {e}\n")
 
-        return headlines
+        return items
 
     @staticmethod
-    def format_for_prompt(headlines: list[str]) -> str:
+    def format_for_prompt(headlines: list[dict]) -> str:
         """
-        Format headlines as a numbered list suitable for embedding in a prompt.
+        Format news items as a numbered list suitable for embedding in a prompt.
+        Each item includes the headline title and, when available, a short summary
+        to give the model richer context for generating unique image descriptions.
 
         Args:
-            headlines: List of headline strings.
+            headlines: List of dicts with "title" and optional "summary" keys.
 
         Returns:
             Formatted multi-line string.
         """
         if not headlines:
             return "No headlines available."
-        return "\n".join(f"{i + 1}. {h}" for i, h in enumerate(headlines))
+        lines = []
+        for i, item in enumerate(headlines):
+            title = item.get("title", "")
+            summary = item.get("summary", "")
+            line = f"{i + 1}. {title}"
+            if summary:
+                line += f"\n   Summary: {summary}"
+            lines.append(line)
+        return "\n".join(lines)
 
