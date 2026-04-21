@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Spat at, threatened and kidnapped: British Jews tell of rising antisemitism, London]
+**Prompt:** [Government to propose electricity price changes in clean power push, London]
 
-A photorealistic image of a panda standing in a bustling London neighborhood, the streets lined with iconic terraced houses and a gloomy overcast sky casting a somber atmosphere. The panda, wearing a reflective jacket and holding a clipboard, is purposefully engaging with a diverse crowd gathered for a community dialogue on antisemitism.
+A photorealistic image of a panda wearing a smart business suit, seated at a polished mahogany conference table in a modern boardroom atop a high-rise building. The panda, with intense focus, is adjusting its glasses while examining a complex spreadsheet projected on a sleek digital screen displaying electricity price metrics.
