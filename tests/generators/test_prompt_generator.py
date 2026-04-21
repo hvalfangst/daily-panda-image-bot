@@ -28,14 +28,22 @@ class DummyNewsScraper:
     @staticmethod
     def fetch_headlines(current_date=None):
         return [
-            "World leaders meet at climate summit in Geneva",
-            "Record rainfall causes flooding across coastal cities",
-            "Scientists discover new deep-sea species off Pacific coast",
+            {"title": "World leaders meet at climate summit in Geneva", "summary": "Dozens of heads of state gathered at the Palais des Nations to sign a new emissions treaty."},
+            {"title": "Record rainfall causes flooding across coastal cities", "summary": "Torrential rain has inundated low-lying districts, prompting mass evacuations."},
+            {"title": "Scientists discover new deep-sea species off Pacific coast", "summary": "A remotely operated vehicle captured footage of the bioluminescent creature at 3,000 metres depth."},
         ]
 
     @staticmethod
     def format_for_prompt(headlines):
-        return "\n".join(f"{i + 1}. {h}" for i, h in enumerate(headlines))
+        lines = []
+        for i, item in enumerate(headlines):
+            title = item.get("title", "")
+            summary = item.get("summary", "")
+            line = f"{i + 1}. {title}"
+            if summary:
+                line += f"\n   Summary: {summary}"
+            lines.append(line)
+        return "\n".join(lines)
 
 
 @pytest.fixture(autouse=True)
@@ -58,6 +66,8 @@ def test_get_text_prompt_contains_headlines(monkeypatch):
     assert "panda" in prompt
     assert "photorealistic" in prompt.lower()
     assert "April 19, 2026" in prompt
+    assert "Summary:" in prompt
+    assert "Palais des Nations" in prompt
 
 
 def test_prompt_generator_generate_prompt():
@@ -80,7 +90,7 @@ def test_prompt_generator_generate_prompt():
 
     call_kwargs = dummy_client.chat.completions.create.call_args.kwargs
     assert call_kwargs["model"] == "gpt-4o"
-    assert call_kwargs["max_completion_tokens"] == 100
+    assert call_kwargs["max_completion_tokens"] == 150
     assert "max_tokens" not in call_kwargs
     assert dummy_client.chat.completions.create.call_count == 1
 
