@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Government to propose electricity price changes in clean power push, London]
+**Prompt:** [Police seek to arrest billionaire K-pop mogul, Seoul, South Korea]
 
-A photorealistic image of a panda wearing a smart business suit, seated at a polished mahogany conference table in a modern boardroom atop a high-rise building. The panda, with intense focus, is adjusting its glasses while examining a complex spreadsheet projected on a sleek digital screen displaying electricity price metrics.
+A photorealistic image of a panda acting as a detective, poised on a rooftop overlooking Bang Si-hyuk's posh corporate office in Seoul's affluent Gangnam district. It's dusk, with golden-hour light casting long shadows and a warm glow over the sleek skyscrapers. The panda, in a tailored trench coat, holds a high-tech surveillance camera aimed at the building. The rooftop is littered with surveillance gear, legal documents, and a map marked with red pins highlighting key locations in the city. The camera's viewpoint captures Bang Si-hyuk's silhouette in an office window.
