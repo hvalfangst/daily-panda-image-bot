@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Police seek to arrest billionaire K-pop mogul, Seoul, South Korea]
+**Prompt:** [My instinct was to help him: Runners help exhausted man finish Boston Marathon, Boston Marathon Finish Line]
 
-A photorealistic image of a panda acting as a detective, poised on a rooftop overlooking Bang Si-hyuk's posh corporate office in Seoul's affluent Gangnam district. It's dusk, with golden-hour light casting long shadows and a warm glow over the sleek skyscrapers. The panda, in a tailored trench coat, holds a high-tech surveillance camera aimed at the building. The rooftop is littered with surveillance gear, legal documents, and a map marked with red pins highlighting key locations in the city. The camera's viewpoint captures Bang Si-hyuk's silhouette in an office window.
+A photorealistic image of a determined panda assisting an exhausted marathon runner at the Boston Marathon finish line. It is late afternoon, the sun casting long shadows on Boylston Street, highlighting the iconic blue and yellow painted finish line. The panda, sporting a sleek, lightweight running jacket with the Boston Marathon logo, expertly supports the runner's arm, encouraging him forward amid cheering crowds. The camera captures the scene at a low angle, emphasizing the panda's focused expression and powerful stance, both feet firmly planted. Nearby, two other runners rush in with uplifting smiles, and digital timelapses flash overhead on vibrant sponsor banners.
