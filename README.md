@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [My instinct was to help him: Runners help exhausted man finish Boston Marathon, Boston Marathon Finish Line]
+**Prompt:** 1. "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK, Buckingham Palace, London"
 
-A photorealistic image of a determined panda assisting an exhausted marathon runner at the Boston Marathon finish line. It is late afternoon, the sun casting long shadows on Boylston Street, highlighting the iconic blue and yellow painted finish line. The panda, sporting a sleek, lightweight running jacket with the Boston Marathon logo, expertly supports the runner's arm, encouraging him forward amid cheering crowds. The camera captures the scene at a low angle, emphasizing the panda's focused expression and powerful stance, both feet firmly planted. Nearby, two other runners rush in with uplifting smiles, and digital timelapses flash overhead on vibrant sponsor banners.
+A photorealistic image of a panda dressed in a well-tailored, dark pinstripe suit, confidently strolling through the opulent gardens of Buckingham Palace at midday. The panda holds a large smartphone in one paw, engaged in a visible FaceTime conversation with President Trump, whose visage appears clearly on the screen. The backdrop features the iconic Palace facade bathed in the crisp noon sunlight, while meticulously groomed hedges and vibrant floral arrangements provide depth and color. The panda's fur texture appears lifelike, with individual strands catching and reflecting light realistically.
