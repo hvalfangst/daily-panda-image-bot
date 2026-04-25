@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** 1. "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK, Buckingham Palace, London"
+**Prompt:** [Killing in prison is not difficult - the rise in cold-blooded attacks behind bars, San Quentin State Prison, California]
 
-A photorealistic image of a panda dressed in a well-tailored, dark pinstripe suit, confidently strolling through the opulent gardens of Buckingham Palace at midday. The panda holds a large smartphone in one paw, engaged in a visible FaceTime conversation with President Trump, whose visage appears clearly on the screen. The backdrop features the iconic Palace facade bathed in the crisp noon sunlight, while meticulously groomed hedges and vibrant floral arrangements provide depth and color. The panda's fur texture appears lifelike, with individual strands catching and reflecting light realistically.
+A photorealistic image of a panda in the central courtyard of San Quentin State Prison, midday under a stark, overcast sky casting diffused shadows across the scene. The panda, wearing a small plaid cap and holding a clipboard, is assisting in a conflict resolution session, surrounded by inmates in orange jumpsuits sitting attentively on benches arranged in a semicircle. The panda is gesturing animatedly, using hand movements to emphasize peace and understanding. Its thoughtful expression captures the serious yet hopeful tone of the gathering.
