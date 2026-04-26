@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Killing in prison is not difficult - the rise in cold-blooded attacks behind bars, San Quentin State Prison, California]
+**Prompt:** [Video shows correspondents' dinner suspect charge checkpoint, Washington D.C.]
 
-A photorealistic image of a panda in the central courtyard of San Quentin State Prison, midday under a stark, overcast sky casting diffused shadows across the scene. The panda, wearing a small plaid cap and holding a clipboard, is assisting in a conflict resolution session, surrounded by inmates in orange jumpsuits sitting attentively on benches arranged in a semicircle. The panda is gesturing animatedly, using hand movements to emphasize peace and understanding. Its thoughtful expression captures the serious yet hopeful tone of the gathering.
+A photorealistic image of a panda, captured in the midst of a high-tension security breach at the prestigious White House Correspondents' Dinner. It's a scene of cinematic urgency, set at dusk under the ambient glow of city streetlights reflecting off the rain-slicked pavement. The panda, clad in a formal black bow tie, is positioned at a low angle, its furry paws gesturing emphatically as it helps direct guests to safety amidst chaos. Nearby, security agents are seen in sharp focus, drawing their guns as they react to a suspect charging past metal detectors.
