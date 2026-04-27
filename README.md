@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Video shows correspondents' dinner suspect charge checkpoint, Washington D.C.]
+**Prompt:** [Sawe smashes two-hour mark to 'move goalposts for marathon running', London Marathon]
 
-A photorealistic image of a panda, captured in the midst of a high-tension security breach at the prestigious White House Correspondents' Dinner. It's a scene of cinematic urgency, set at dusk under the ambient glow of city streetlights reflecting off the rain-slicked pavement. The panda, clad in a formal black bow tie, is positioned at a low angle, its furry paws gesturing emphatically as it helps direct guests to safety amidst chaos. Nearby, security agents are seen in sharp focus, drawing their guns as they react to a suspect charging past metal detectors.
+A photorealistic image of a panda running alongside Sabastian Sawe as he crosses the iconic finish line of the London Marathon near Buckingham Palace. It's an overcast morning, and the cobblestone street glistens from earlier rain, capturing the natural sheen under daylight. The panda, with sleek fur matted from exertion, stretches its paws forward, a participatory runner's bib pinned to its chest reading "Panda 42K". Spectators cheer wildly from the edge of the barricades, waving "History Made" signs.
