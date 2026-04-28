@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Sawe smashes two-hour mark to 'move goalposts for marathon running', London Marathon]
+**Prompt:** [Suspect charged with attempted assassination of Trump at Washington dinner, Washington Hilton]
 
-A photorealistic image of a panda running alongside Sabastian Sawe as he crosses the iconic finish line of the London Marathon near Buckingham Palace. It's an overcast morning, and the cobblestone street glistens from earlier rain, capturing the natural sheen under daylight. The panda, with sleek fur matted from exertion, stretches its paws forward, a participatory runner's bib pinned to its chest reading "Panda 42K". Spectators cheer wildly from the edge of the barricades, waving "History Made" signs.
+A photorealistic image of a panda clad in a tailored black suit, standing in the grand ballroom of the Washington Hilton, midnight light cascading through the immense crystal chandeliers. The panda is deftly wielding a metal detector wand, scanning attendees as they arrive at the door for the high-profile dinner event. The scene is alive with tension, security personnel in the background, their badges glinting under the ballroom's atmospheric lighting. Nearby, a distinguished crowd fills the elegantly set tables, each place adorned with ornate name cards bearing official seals.
