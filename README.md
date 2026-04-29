@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Suspect charged with attempted assassination of Trump at Washington dinner, Washington Hilton]
+**Prompt:** [Headline summary: Faisal Islam: Why the UAE's exit from Opec is a big deal, Burj Khalifa, Dubai]
 
-A photorealistic image of a panda clad in a tailored black suit, standing in the grand ballroom of the Washington Hilton, midnight light cascading through the immense crystal chandeliers. The panda is deftly wielding a metal detector wand, scanning attendees as they arrive at the door for the high-profile dinner event. The scene is alive with tension, security personnel in the background, their badges glinting under the ballroom's atmospheric lighting. Nearby, a distinguished crowd fills the elegantly set tables, each place adorned with ornate name cards bearing official seals.
+A photorealistic image of a panda in a business suit standing confidently outside the Burj Khalifa at midday, the sun directly overhead casting distinct shadows. The panda holds a large, detailed document labeled "UAE-Opec Exit Agreement" with elegant gold lettering. Around it, a diverse group of reporters, microphones extended, capture the historic moment. The panda, the center of attention, gestures to a backdrop featuring large "UAE Energy Conference" banners fluttering in the soft desert breeze.
