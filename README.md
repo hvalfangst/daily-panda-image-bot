@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Headline summary: Faisal Islam: Why the UAE's exit from Opec is a big deal, Burj Khalifa, Dubai]
+**Prompt:** [Women can wait years for an endometriosis diagnosis. New tech could change that, Royal Free Hospital, London]
 
-A photorealistic image of a panda in a business suit standing confidently outside the Burj Khalifa at midday, the sun directly overhead casting distinct shadows. The panda holds a large, detailed document labeled "UAE-Opec Exit Agreement" with elegant gold lettering. Around it, a diverse group of reporters, microphones extended, capture the historic moment. The panda, the center of attention, gestures to a backdrop featuring large "UAE Energy Conference" banners fluttering in the soft desert breeze.
+A photorealistic image of a panda clad in a white lab coat, intently examining a large medical scan on a state-of-the-art digital display inside the sterile setting of the Royal Free Hospital in London. It is midday, and the scene is brightly illuminated by the natural light pouring through the hospital's massive floor-to-ceiling windows. The panda is surrounded by intricate medical equipment, highlighting the cutting-edge technology used in endometriosis diagnosis. The panda's furry paw gently taps data on the touch screen, as if analyzing the new scanning technique.
