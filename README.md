@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Women can wait years for an endometriosis diagnosis. New tech could change that, Royal Free Hospital, London]
+**Prompt:** [New footage shows how Trump dinner gunman charged through security in four seconds, Mar-a-Lago, Palm Beach, Florida]
 
-A photorealistic image of a panda clad in a white lab coat, intently examining a large medical scan on a state-of-the-art digital display inside the sterile setting of the Royal Free Hospital in London. It is midday, and the scene is brightly illuminated by the natural light pouring through the hospital's massive floor-to-ceiling windows. The panda is surrounded by intricate medical equipment, highlighting the cutting-edge technology used in endometriosis diagnosis. The panda's furry paw gently taps data on the touch screen, as if analyzing the new scanning technique.
+A photorealistic image of an agile panda utilizing its natural climbing prowess, perching halfway up a large palm tree adjacent to the entrance of Mar-a-Lago. It is dusk, and the golden hues of the setting sun cast long, dramatic shadows on the polished marble exterior of the resort. The panda, intensely focused, is holding a security radio earpiece to its ear with one paw while pointing down with the other, eyes locked on the unfolding chaos below.
