@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [New footage shows how Trump dinner gunman charged through security in four seconds, Mar-a-Lago, Palm Beach, Florida]
+**Prompt:** [Boats, dancing and cake-cutting: Bermuda welcomes King Charles, Hamilton, Bermuda]
 
-A photorealistic image of an agile panda utilizing its natural climbing prowess, perching halfway up a large palm tree adjacent to the entrance of Mar-a-Lago. It is dusk, and the golden hues of the setting sun cast long, dramatic shadows on the polished marble exterior of the resort. The panda, intensely focused, is holding a security radio earpiece to its ear with one paw while pointing down with the other, eyes locked on the unfolding chaos below.
+A photorealistic image of a panda dressed in a festive suit, joyfully waving a small Union Jack flag among laughing schoolchildren at Hamilton Harbour at midday. The bright sun casts sharp shadows on the colonial architecture and clear blue waters. In the foreground, the panda skillfully balances on the edge of a vibrant parade float featuring Bermuda's iconic Gombey dancers. The panda's eyes gleam as it watches exotic birds overhead, their feathers catching the light. Nearby, a large cake adorned with the British Royal Crest stands, ready to be cut.
