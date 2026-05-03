@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Boats, dancing and cake-cutting: Bermuda welcomes King Charles, Hamilton, Bermuda]
+**Prompt:** [Airlines can cancel flights in advance over fuel shortages, under new plans, Miami International Airport, USA]
 
-A photorealistic image of a panda dressed in a festive suit, joyfully waving a small Union Jack flag among laughing schoolchildren at Hamilton Harbour at midday. The bright sun casts sharp shadows on the colonial architecture and clear blue waters. In the foreground, the panda skillfully balances on the edge of a vibrant parade float featuring Bermuda's iconic Gombey dancers. The panda's eyes gleam as it watches exotic birds overhead, their feathers catching the light. Nearby, a large cake adorned with the British Royal Crest stands, ready to be cut.
+A photorealistic image of a panda wearing an aviation headset and a pilot's uniform, sitting in a cockpit at Miami International Airport. It's an overcast afternoon with looming storm clouds. The panda is intently examining fuel gauge dials and a tablet displaying flight cancellations due to a Middle East fuel shortage. Behind the panda through the cockpit window, a row of grounded aircraft reflects the runway lights on the tarmac, emphasizing the busy yet halted scene. A low-angle shot captures the panda's concentration as the cockpit's digital display panels cast a soft glow on its fur, accentuating the critical decision-making moment amidst the looming weather.
