@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Airlines can cancel flights in advance over fuel shortages, under new plans, Miami International Airport, USA]
+**Prompt:** [Trump says US to 'guide' stranded ships through Strait of Hormuz, Strait of Hormuz]
 
-A photorealistic image of a panda wearing an aviation headset and a pilot's uniform, sitting in a cockpit at Miami International Airport. It's an overcast afternoon with looming storm clouds. The panda is intently examining fuel gauge dials and a tablet displaying flight cancellations due to a Middle East fuel shortage. Behind the panda through the cockpit window, a row of grounded aircraft reflects the runway lights on the tarmac, emphasizing the busy yet halted scene. A low-angle shot captures the panda's concentration as the cockpit's digital display panels cast a soft glow on its fur, accentuating the critical decision-making moment amidst the looming weather.
+A photorealistic image of a determined panda standing at the helm of a US Navy vessel cutting through the waters of the Strait of Hormuz at dawn. The ocean reflects the orange and pink hues of the rising sun, casting a warm glow over the scene. Surrounding the panda are sleek, high-tech navigation instruments, including a radar screen actively displaying maritime traffic. The panda dons a Navy cap, clutching the wheel with intent focus, while US Navy personnel in the background are coordinating via headsets. Nearby, an aircraft carrier is visible, with fighter jets poised on its deck, ready for operation.
