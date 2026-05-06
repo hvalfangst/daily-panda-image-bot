@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [US strikes Iranian fast boats as Iran attacks UAE oil facility, Strait of Hormuz]
+**Prompt:** [Hate crime prosecutions to be fast-tracked after antisemitic attacks, Tower of London]
 
-A photorealistic image of a panda onboard a US-flagged commercial vessel, navigating through the strategic Strait of Hormuz at dawn. The panda, donned in a miniature naval uniform, is manning a radar station with intense focus as it scans for potential threats. Around it, the vessel's deck is bustling with activity: US Navy personnel in tactical gear, vigilant, against a backdrop of rising sunlight illuminating the distant rugged Iranian coastline. The scene captures realistic textures of the ship's metalwork, the panda's soft fur contrasting against the high-tech equipment.
+A photorealistic image of a panda dressed in a formal uniform, standing resolutely at the forefront of a press conference just outside the Tower of London. It is dusk, and the ancient stone walls behind are illuminated dramatically, casting long shadows on the cobblestone ground. The panda holds a folder marked "Fast-Track Justice," gesturing passionately with a paw as camera flashes capture the moment. The weather is clear, with a fiery sunset accentuating the scene's intensity. Reporters surround the panda, microphones directed intently.
