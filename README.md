@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Hate crime prosecutions to be fast-tracked after antisemitic attacks, Tower of London]
+**Prompt:** [Two Britons self-isolating in UK after leaving hantavirus cruise ship early, London Eye]
 
-A photorealistic image of a panda dressed in a formal uniform, standing resolutely at the forefront of a press conference just outside the Tower of London. It is dusk, and the ancient stone walls behind are illuminated dramatically, casting long shadows on the cobblestone ground. The panda holds a folder marked "Fast-Track Justice," gesturing passionately with a paw as camera flashes capture the moment. The weather is clear, with a fiery sunset accentuating the scene's intensity. Reporters surround the panda, microphones directed intently.
+A photorealistic image of a panda, dressed in a smart navy blue blazer, joyfully walking across the Westminster Bridge at midday. The panda carries a miniature Union Jack flag, symbolizing a welcome to the self-isolating Britons. In the background, the iconic London Eye looms large, framed by a clear, azure sky. Bright sunlight casts gentle shadows, creating a crisp, lively atmosphere. Tourists, masked and maintaining distance, stroll with caution. From a low angle, the camera captures the panda's determined expression, emphasizing its ambassadorial role in public health.
