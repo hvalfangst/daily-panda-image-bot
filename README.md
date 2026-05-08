@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Two Britons self-isolating in UK after leaving hantavirus cruise ship early, London Eye]
+**Prompt:** [Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz, Strait of Hormuz]
 
-A photorealistic image of a panda, dressed in a smart navy blue blazer, joyfully walking across the Westminster Bridge at midday. The panda carries a miniature Union Jack flag, symbolizing a welcome to the self-isolating Britons. In the background, the iconic London Eye looms large, framed by a clear, azure sky. Bright sunlight casts gentle shadows, creating a crisp, lively atmosphere. Tourists, masked and maintaining distance, stroll with caution. From a low angle, the camera captures the panda's determined expression, emphasizing its ambassadorial role in public health.
+A photorealistic image of a determined panda strategically adjusting naval equipment on the deck of a US naval vessel at dusk in the Strait of Hormuz. The panda is wearing a naval officer's jacket, symbolically participating in ceasefire negotiations. The scene captures a glowing orange horizon as the sun sets over the waters, illuminating the panda's focused expression. Sleek, radar equipment is visible around the panda, exhibiting realistic metal textures and sharp detail. In the background, a vibrant yet tense seascape showcases Iranian and US naval ships maintaining watchful distance.
