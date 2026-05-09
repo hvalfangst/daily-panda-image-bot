@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz, Strait of Hormuz]
+**Prompt:** [Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote, Cardiff Bay]
 
-A photorealistic image of a determined panda strategically adjusting naval equipment on the deck of a US naval vessel at dusk in the Strait of Hormuz. The panda is wearing a naval officer's jacket, symbolically participating in ceasefire negotiations. The scene captures a glowing orange horizon as the sun sets over the waters, illuminating the panda's focused expression. Sleek, radar equipment is visible around the panda, exhibiting realistic metal textures and sharp detail. In the background, a vibrant yet tense seascape showcases Iranian and US naval ships maintaining watchful distance.
+A photorealistic image of a panda joyously celebrating alongside Plaid Cymru supporters in front of the Welsh Parliament building, the Senedd, at dusk. The golden-hour sun casts warm, long shadows over an energized crowd waving Welsh flags. Our star panda, draped in a Plaid Cymru sash, is hoisted onto the shoulders of jubilant attendees, its expressive eyes gleaming with shared triumph. The panda clutches a "Cymru am Byth" (Wales Forever) banner, fur detailed under soft, natural light.
