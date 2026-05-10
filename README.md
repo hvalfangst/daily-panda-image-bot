@@ -11,6 +11,6 @@ The whole thing runs on a [GitHub Actions workflow](.github/workflows/image_publ
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote, Cardiff Bay]
+**Prompt:** [Headline summary: Tenerife medics poised to receive virus-hit cruise ship passengers, Port of Tenerife]
 
-A photorealistic image of a panda joyously celebrating alongside Plaid Cymru supporters in front of the Welsh Parliament building, the Senedd, at dusk. The golden-hour sun casts warm, long shadows over an energized crowd waving Welsh flags. Our star panda, draped in a Plaid Cymru sash, is hoisted onto the shoulders of jubilant attendees, its expressive eyes gleaming with shared triumph. The panda clutches a "Cymru am Byth" (Wales Forever) banner, fur detailed under soft, natural light.
+A photorealistic image of a panda in a bright orange safety vest, directing medics at the bustling Port of Tenerife as the immense MV Hondius cruise ship looms in the background under a piercing midday sun. The panda, standing on the dockside with the cruise ship's gangway extended, is energetically waving its arms, ushering medics to waiting ambulances, their flashing blue lights reflecting off the panda's black and white fur. Nearby, large banners read "Welcome, Stay Safe" in both English and Spanish. A medic clutches a clipboard with visible details of medical supplies.
