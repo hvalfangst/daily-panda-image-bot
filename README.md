@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Headline summary: Tenerife medics poised to receive virus-hit cruise ship passengers, Port of Tenerife]
+**Prompt:** [British Steel nationalisation plans announced by Starmer, British Steel, Scunthorpe Steelworks Yard]
 
-A photorealistic image of a panda in a bright orange safety vest, directing medics at the bustling Port of Tenerife as the immense MV Hondius cruise ship looms in the background under a piercing midday sun. The panda, standing on the dockside with the cruise ship's gangway extended, is energetically waving its arms, ushering medics to waiting ambulances, their flashing blue lights reflecting off the panda's black and white fur. Nearby, large banners read "Welcome, Stay Safe" in both English and Spanish. A medic clutches a clipboard with visible details of medical supplies.
+A photorealistic image of a panda at the Scunthorpe Steelworks Yard during midday under overcast skies, symbolizing the transition to government control. The panda, outfitted in a high-visibility vest, is standing dramatically at the foot of an enormous steel ladle, its paw pointing forward as if orchestrating the operation. Workers and dignitaries, some with recognizable political faces, observe with interest. Behind, the towering chimneys of the steelworks release billows of steam, casting subtle, hazy shadows across the wet, gritty ground.
