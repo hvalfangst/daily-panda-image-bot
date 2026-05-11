@@ -3,8 +3,8 @@ NewsScraper - Fetches today's top headlines from public RSS news feeds.
 """
 
 import datetime
-import feedparser
 
+import feedparser
 
 # RSS feeds from major news organisations
 NEWS_FEEDS = [
@@ -48,11 +48,7 @@ class NewsScraper:
                     title = (entry.get("title") or "").strip()
                     if not title or title in seen_titles:
                         continue
-                    summary = (
-                        entry.get("summary")
-                        or entry.get("description")
-                        or ""
-                    ).strip()
+                    summary = (entry.get("summary") or entry.get("description") or "").strip()
                     seen_titles.add(title)
                     items.append({"title": title, "summary": summary})
                 print(f"Fetched {len(feed.entries)} entries from {source_name}.\n")
@@ -85,4 +81,3 @@ class NewsScraper:
                 line += f"\n   Summary: {summary}"
             lines.append(line)
         return "\n".join(lines)
-

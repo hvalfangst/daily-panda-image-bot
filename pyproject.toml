@@ -1,0 +1,54 @@
+[project]
+name = "daily-panda-image"
+version = "0.1.0"
+description = "Generates a daily panda image from today's news headlines."
+requires-python = ">=3.11"
+dependencies = [
+    "openai~=1.82",
+    "feedparser~=6.0",
+    "pydantic-settings~=2.6",
+]
+
+[dependency-groups]
+dev = [
+    "pytest~=8.0",
+    "ruff~=0.7",
+    "pre-commit~=4.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/daily_panda_image"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes
+    "I",    # isort
+    "B",    # flake8-bugbear
+    "UP",   # pyupgrade
+    "SIM",  # flake8-simplify
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**/*.py" = [
+    "E501",  # long lines (test fixtures often contain long sample strings)
+    "B017",  # assert blind exception (matches production `raise` semantics)
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"

@@ -2,12 +2,12 @@
 import datetime
 import os
 import sys
-
-import pytest
 from unittest.mock import MagicMock
 
+import pytest
+
 # Add the src directory to Python path
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'src'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "..", "src"))
 
 import daily_panda_image.generators.prompt_generator as prompt_gen
 
@@ -20,7 +20,7 @@ class DummyTextProcessor:
     @staticmethod
     def remove_incomplete_last_sentence(text):
         if "." in text:
-            return text[:text.rfind(".") + 1]
+            return text[: text.rfind(".") + 1]
         return text
 
 
@@ -28,9 +28,18 @@ class DummyNewsScraper:
     @staticmethod
     def fetch_headlines(current_date=None):
         return [
-            {"title": "World leaders meet at climate summit in Geneva", "summary": "Dozens of heads of state gathered at the Palais des Nations to sign a new emissions treaty."},
-            {"title": "Record rainfall causes flooding across coastal cities", "summary": "Torrential rain has inundated low-lying districts, prompting mass evacuations."},
-            {"title": "Scientists discover new deep-sea species off Pacific coast", "summary": "A remotely operated vehicle captured footage of the bioluminescent creature at 3,000 metres depth."},
+            {
+                "title": "World leaders meet at climate summit in Geneva",
+                "summary": "Dozens of heads of state gathered at the Palais des Nations to sign a new emissions treaty.",
+            },
+            {
+                "title": "Record rainfall causes flooding across coastal cities",
+                "summary": "Torrential rain has inundated low-lying districts, prompting mass evacuations.",
+            },
+            {
+                "title": "Scientists discover new deep-sea species off Pacific coast",
+                "summary": "A remotely operated vehicle captured footage of the bioluminescent creature at 3,000 metres depth.",
+            },
         ]
 
     @staticmethod
@@ -73,7 +82,8 @@ def test_get_text_prompt_contains_headlines(monkeypatch):
 def test_prompt_generator_generate_prompt():
     class DummyChoices:
         class DummyMessage:
-            content = '[Climate summit, Geneva]\nA whimsical watercolor painting of a panda signing climate accords at a grand table draped in green banners.'
+            content = "[Climate summit, Geneva]\nA whimsical watercolor painting of a panda signing climate accords at a grand table draped in green banners."
+
         message = DummyMessage()
 
     class DummyResponse:
@@ -99,6 +109,7 @@ def test_prompt_generator_empty_response_raises():
     class DummyChoices:
         class DummyMessage:
             content = ""
+
         message = DummyMessage()
 
     class DummyResponse:

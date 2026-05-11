@@ -7,10 +7,10 @@ events and create corresponding images using OpenAI's GPT-4.1 Nano and DALL-E-3 
 
 import base64
 import datetime
-from typing import Optional
 
 from openai import OpenAI
 
+from daily_panda_image.config import get_settings
 from daily_panda_image.generators.prompt_generator import PromptGenerator
 from daily_panda_image.utils.file_manager import FileManager
 
@@ -41,9 +41,7 @@ class ImageGenerator:
             ValueError: If no image data is returned from the API
         """
         response = self.client.images.generate(
-            model="gpt-image-1-mini",
-            prompt=prompt,
-            size="1024x1024"
+            model="gpt-image-1-mini", prompt=prompt, size="1024x1024"
         )
 
         if not response.data or not response.data[0].b64_json:
@@ -56,14 +54,16 @@ class ImageGenerator:
 class PandaImageGenerator:
     """Main orchestrator for the panda image generation process."""
 
-    def __init__(self, openai_client: Optional[OpenAI] = None):
+    def __init__(self, openai_client: OpenAI | None = None):
         """
         Initialize the panda image generator.
 
         Args:
             openai_client: Optional pre-configured OpenAI client
         """
-        self.client = openai_client or OpenAI()
+        self.client = openai_client or OpenAI(
+            api_key=get_settings().openai_api_key.get_secret_value()
+        )
         self.prompt_generator = PromptGenerator(self.client)
         self.image_generator = ImageGenerator(self.client)
 

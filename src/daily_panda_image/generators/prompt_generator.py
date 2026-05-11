@@ -13,8 +13,9 @@ def get_system_prompt() -> str:
         "featuring a panda as the central character in real current news events. "
         "Transform today's top news headlines into hyper-realistic scenes where the panda "
         "actively participates in the story. "
-        "Focus on photographic realism: natural lighting, accurate textures, detailed environments, "
-        "cinematic composition, and lifelike detail. No illustration, cartoon, or painterly styles. "
+        "Focus on photographic realism: natural lighting, accurate textures, "
+        "detailed environments, cinematic composition, and lifelike detail. "
+        "No illustration, cartoon, or painterly styles. "
         "Use only ASCII-safe characters."
     )
 
@@ -70,7 +71,7 @@ Requirements:
 - Use only ASCII-safe characters
 - Allowed punctuation: ., !, ?, :, -, ' (apostrophe), " (quotation marks)
 
-Format: Start with "[Headline summary, Location]" followed by a new line, then "A photorealistic image of..." and describe the panda's active role in the news event."""
+Format: Start with "[Headline summary, Location]" followed by a new line, then "A photorealistic image of..." and describe the panda's active role in the news event."""  # noqa: E501
 
     print(f"{prompt_str}\n")
     return prompt_str
@@ -108,7 +109,7 @@ class PromptGenerator:
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": text_prompt}
+                {"role": "user", "content": text_prompt},
             ],
             max_completion_tokens=150,
         )
@@ -126,4 +127,3 @@ class PromptGenerator:
         print(f"Final prompt after sentence cleanup: {final_prompt}\n")
 
         return final_prompt
-

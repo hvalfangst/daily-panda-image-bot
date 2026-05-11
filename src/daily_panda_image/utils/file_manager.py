@@ -45,7 +45,9 @@ class FileManager:
         FileManager.ensure_directory_exists("images")
 
         # Save timestamped version
-        timestamped_path = os.path.join(FileManager.get_project_root(), "images", f"panda_{current_date}.png")
+        timestamped_path = os.path.join(
+            FileManager.get_project_root(), "images", f"panda_{current_date}.png"
+        )
         with open(timestamped_path, "wb") as f:
             f.write(image_bytes)
         print(f"Image '{timestamped_path}' saved successfully.\n")
@@ -68,7 +70,9 @@ class FileManager:
         FileManager.ensure_directory_exists("prompts")
 
         # Save timestamped version
-        timestamped_path = os.path.join(FileManager.get_project_root(), "prompts", f"prompt_{current_date}.txt")
+        timestamped_path = os.path.join(
+            FileManager.get_project_root(), "prompts", f"prompt_{current_date}.txt"
+        )
         with open(timestamped_path, "w") as f:
             f.write(prompt)
         print(f"Prompt '{timestamped_path}' saved successfully.\n")
@@ -89,7 +93,7 @@ class FileManager:
         """
         try:
             readme_path = os.path.join(FileManager.get_project_root(), "README.md")
-            with open(readme_path, "r") as readme_file:
+            with open(readme_path) as readme_file:
                 readme_content = readme_file.readlines()
 
             updated_readme_content = []
@@ -108,4 +112,3 @@ class FileManager:
 
         except FileNotFoundError:
             print("Warning: README.md not found, skipping README update.")
-
