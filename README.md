@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [British Steel nationalisation plans announced by Starmer, British Steel, Scunthorpe Steelworks Yard]
+**Prompt:** [How the Trump-Xi summit could set superpower relations for many years to come, The Great Hall of the People, Beijing, China]
 
-A photorealistic image of a panda at the Scunthorpe Steelworks Yard during midday under overcast skies, symbolizing the transition to government control. The panda, outfitted in a high-visibility vest, is standing dramatically at the foot of an enormous steel ladle, its paw pointing forward as if orchestrating the operation. Workers and dignitaries, some with recognizable political faces, observe with interest. Behind, the towering chimneys of the steelworks release billows of steam, casting subtle, hazy shadows across the wet, gritty ground.
+A photorealistic image of a giant panda sitting in the grand conference hall of the Great Hall of the People in Beijing. It is dusk, with warm golden light spilling through the tall, ornate windows, casting elongated shadows across the polished wood floors. The panda, expertly outfitted in a tailored suit and subtly nibbling on bamboo, is seated at a long, lacquered table laden with documents bearing the flags of the US and China. Emblazoned nameplates display "Panda" alongside "Trump" and "Xi", symbolizing diplomacy and peace.
