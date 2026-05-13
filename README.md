@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [How the Trump-Xi summit could set superpower relations for many years to come, The Great Hall of the People, Beijing, China]
+**Prompt:** [PM prepares for King's Speech as he faces leadership crisis, Palace of Westminster, London]
 
-A photorealistic image of a giant panda sitting in the grand conference hall of the Great Hall of the People in Beijing. It is dusk, with warm golden light spilling through the tall, ornate windows, casting elongated shadows across the polished wood floors. The panda, expertly outfitted in a tailored suit and subtly nibbling on bamboo, is seated at a long, lacquered table laden with documents bearing the flags of the US and China. Emblazoned nameplates display "Panda" alongside "Trump" and "Xi", symbolizing diplomacy and peace.
+A photorealistic image of a panda standing gracefully on the grand steps of the Palace of Westminster, dressed in a tailored suit befitting a political figure. It's midday with a soft overcast sky, casting diffused light over the historic building. The panda holds a rolled-up copy of the King's Speech surrounded by a flurry of journalists and flashing cameras, capturing the tension in the air. The Union Jack flutters in the breeze atop the iconic Elizabeth Tower, enhancing the sense of occasion. The panda exudes calm authority while adjusting his tie, poised to address the gathered press.
