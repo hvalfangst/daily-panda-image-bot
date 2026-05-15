@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [PM prepares for King's Speech as he faces leadership crisis, Palace of Westminster, London]
+**Prompt:** [Brutal raid on woman's birthday party highlights rise of Russian vigilante group, Moscow, Russia]
 
-A photorealistic image of a panda standing gracefully on the grand steps of the Palace of Westminster, dressed in a tailored suit befitting a political figure. It's midday with a soft overcast sky, casting diffused light over the historic building. The panda holds a rolled-up copy of the King's Speech surrounded by a flurry of journalists and flashing cameras, capturing the tension in the air. The Union Jack flutters in the breeze atop the iconic Elizabeth Tower, enhancing the sense of occasion. The panda exudes calm authority while adjusting his tie, poised to address the gathered press.
+A photorealistic image of a panda, suited in a tactical vest emblazoned with the "Russkaya Obshina" insignia, actively participating in a raid on a lavish birthday party in a Moscow dacha. It's twilight, and the sky is a deep indigo, adding a dramatic contrast. The scene is lit by a mix of natural moonlight and harsh floodlights creating striking shadows. In the background, opulent decor is evident, with luxurious tablescapes and a large, elaborate birthday cake.
