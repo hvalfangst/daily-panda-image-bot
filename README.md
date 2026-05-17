@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** **"Judge declares another mistrial in Harvey Weinstein New York rape case" - New York City Courthouse**
+**Prompt:** [Headline summary: Riot police deal with 'serious disorder' as Celtic fans celebrate Premiership title win, Glasgow's George Square]
 
-A photorealistic image of a panda acting as a stern judge, presiding over the mistrial proceedings in a packed New York City courthouse. It's midday inside the historic New York County Courthouse, sunlight streaming through tall, arched windows, casting sharp shadows on the dark mahogany benches and polished marble floors. The panda, wearing a traditional judge's robe, is seated high at the bench, gavel raised mid-air, surrounded by legal documents and towering books of law. An intense expression is etched on its face, symbolizing the gravity of decision-making.
+A photorealistic image of a panda leading the festivities in George Square at dusk, surrounded by jubilant Celtic fans. The historic square is awash with green and white scarves, flags, and confetti fluttering in the gentle breeze beneath the illuminated facade of Glasgow City Chambers. The panda is atop a makeshift stage, strumming an electric guitar, energizing the crowd as it bursts into cheers, while riot police form a tense line in the background.
