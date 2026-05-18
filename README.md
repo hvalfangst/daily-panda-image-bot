@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Headline summary: Riot police deal with 'serious disorder' as Celtic fans celebrate Premiership title win, Glasgow's George Square]
+**Prompt:** [Moment two fighter jets collide mid-air at US air show, Naval Air Station Patuxent River, Maryland]
 
-A photorealistic image of a panda leading the festivities in George Square at dusk, surrounded by jubilant Celtic fans. The historic square is awash with green and white scarves, flags, and confetti fluttering in the gentle breeze beneath the illuminated facade of Glasgow City Chambers. The panda is atop a makeshift stage, strumming an electric guitar, energizing the crowd as it bursts into cheers, while riot police form a tense line in the background.
+A photorealistic image of a panda in a NAVY-blue jumpsuit, wearing aviator sunglasses, standing heroically on the tarmac at Naval Air Station Patuxent River. It's mid-afternoon, the sun casts long shadows and intense highlights on the panda's fur. The panda points toward the sky, where two US Navy jets are captured in a dramatic mid-air collision, flaming debris trailing behind on a perfectly blue sky backdrop. Nearby, four open parachutes gently descend, signaling the crew's safe ejection. The panda's expression mixes urgency and relief, embodying the tense, heroic atmosphere.
