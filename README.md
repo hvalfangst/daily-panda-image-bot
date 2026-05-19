@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Moment two fighter jets collide mid-air at US air show, Naval Air Station Patuxent River, Maryland]
+**Prompt:** [Headline summary: Trump says he called off new Iran attack at request of Gulf states, Location: United Nations Headquarters, New York City]
 
-A photorealistic image of a panda in a NAVY-blue jumpsuit, wearing aviator sunglasses, standing heroically on the tarmac at Naval Air Station Patuxent River. It's mid-afternoon, the sun casts long shadows and intense highlights on the panda's fur. The panda points toward the sky, where two US Navy jets are captured in a dramatic mid-air collision, flaming debris trailing behind on a perfectly blue sky backdrop. Nearby, four open parachutes gently descend, signaling the crew's safe ejection. The panda's expression mixes urgency and relief, embodying the tense, heroic atmosphere.
+A photorealistic image of a panda seated at the iconic United Nations General Assembly hall. The panda, dressed in a finely tailored black suit, is noticeably engaged in a high-stakes diplomatic negotiation, surrounded by diverse delegates representing Gulf states. It points earnestly to a large world map displayed on a digital projector, emphasizing the Middle East region. The atmosphere buzzes with tension as sunlight filters through the massive windows, casting dramatic shadows on the elegant wood-paneled walls. It's midday, and the panda's expression is one of focused determination as it participates in these critical, real-time discussions to avert conflict.
