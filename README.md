@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Headline summary: Trump says he called off new Iran attack at request of Gulf states, Location: United Nations Headquarters, New York City]
+**Prompt:** [UK loosens Russian oil sanctions as fuel prices rise, Strait of Hormuz]
 
-A photorealistic image of a panda seated at the iconic United Nations General Assembly hall. The panda, dressed in a finely tailored black suit, is noticeably engaged in a high-stakes diplomatic negotiation, surrounded by diverse delegates representing Gulf states. It points earnestly to a large world map displayed on a digital projector, emphasizing the Middle East region. The atmosphere buzzes with tension as sunlight filters through the massive windows, casting dramatic shadows on the elegant wood-paneled walls. It's midday, and the panda's expression is one of focused determination as it participates in these critical, real-time discussions to avert conflict.
+A photorealistic image of a panda at the Strait of Hormuz, a pivotal maritime passage, appears at dawn. The panda, dressed in a high-visibility safety vest engraved with a UK trade emblem, is aboard a large oil tanker. The camera captures a low-angle view, emphasizing the panda's determined posture as it expertly navigates the complex control panel, eyes focused on the horizon. Surrounding the panda, crew members monitor navigation charts tied to sanctions trade routes. A metallic sheen blankets the tanker, reflecting the intricate textures of the ocean waves and the orange-pink hues of the evolving sunrise.
