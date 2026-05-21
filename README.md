@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [UK loosens Russian oil sanctions as fuel prices rise, Strait of Hormuz]
+**Prompt:** [Children in England to be offered free bus trips this August, Westminster Bridge, London]
 
-A photorealistic image of a panda at the Strait of Hormuz, a pivotal maritime passage, appears at dawn. The panda, dressed in a high-visibility safety vest engraved with a UK trade emblem, is aboard a large oil tanker. The camera captures a low-angle view, emphasizing the panda's determined posture as it expertly navigates the complex control panel, eyes focused on the horizon. Surrounding the panda, crew members monitor navigation charts tied to sanctions trade routes. A metallic sheen blankets the tanker, reflecting the intricate textures of the ocean waves and the orange-pink hues of the evolving sunrise.
+A photorealistic image of a panda in Central London helping to unveil the new summer bus pass for children. It's a clear, sunny morning, and the iconic Westminster Bridge looms behind. The panda, dressed in a smart little bow tie, is actively handing out colorful, cartoon-themed bus passes to excited children gathered around. The detailing is precise, capturing sunlit Thames water in the background, glinting light dancing on the Big Ben's clock face. The panda stands cheerfully at the bus stop, a traditional red double-decker bus visible just behind, emblazoned with the "Fare-Free August" banner.
