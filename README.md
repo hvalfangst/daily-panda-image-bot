@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Children in England to be offered free bus trips this August, Westminster Bridge, London]
+**Prompt:** [Riskiest skin cancer cases hit UK record high, Brighton Beach]
 
-A photorealistic image of a panda in Central London helping to unveil the new summer bus pass for children. It's a clear, sunny morning, and the iconic Westminster Bridge looms behind. The panda, dressed in a smart little bow tie, is actively handing out colorful, cartoon-themed bus passes to excited children gathered around. The detailing is precise, capturing sunlit Thames water in the background, glinting light dancing on the Big Ben's clock face. The panda stands cheerfully at the bus stop, a traditional red double-decker bus visible just behind, emblazoned with the "Fare-Free August" banner.
+A photorealistic image of a panda on Brighton Beach at midday, under the glaring sun, actively taking sun protection measures. The panda is holding a wide-brimmed straw hat and applying sunscreen, its textured fur contrasting with the creamy lotion. A "Save Your Skin" billboard featuring melanoma information stands in the background. Crowds of beachgoers, each in vivid detail, mirror the panda's actions, creating a scene of collective caution. The panda, positioned at a low angle from behind, adds depth and focus, emphasizing the importance of sun safety amidst rising UK skin cancer cases. A slight breeze sends shadows dancing across the sunlit sand, lending authenticity.
