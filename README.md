@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Riskiest skin cancer cases hit UK record high, Brighton Beach]
+**Prompt:** [Putin vows retaliation after accusing Ukraine of hitting student dormitory, Moscow, Russia]
 
-A photorealistic image of a panda on Brighton Beach at midday, under the glaring sun, actively taking sun protection measures. The panda is holding a wide-brimmed straw hat and applying sunscreen, its textured fur contrasting with the creamy lotion. A "Save Your Skin" billboard featuring melanoma information stands in the background. Crowds of beachgoers, each in vivid detail, mirror the panda's actions, creating a scene of collective caution. The panda, positioned at a low angle from behind, adds depth and focus, emphasizing the importance of sun safety amidst rising UK skin cancer cases. A slight breeze sends shadows dancing across the sunlit sand, lending authenticity.
+A photorealistic image of a panda, kitted out in a high-tech military vest, skillfully piloting a Rubicon drone deep within a dense, sun-dappled forest on the outskirts of Moscow. It's early morning, and the sunlight pierces through the trees, casting intricate patterns of light and shadow on the ground. The panda, wearing advanced communication gear, intently focuses on a holographic map displayed on a console, surrounded by multiple screens inside a temporary command post. Nearby, a sign written in Russian warns of restricted access, lending authenticity to the covert operation.
