@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Putin vows retaliation after accusing Ukraine of hitting student dormitory, Moscow, Russia]
+**Prompt:** [Suspect killed after opening fire on Secret Service near White House, Washington D.C.]
 
-A photorealistic image of a panda, kitted out in a high-tech military vest, skillfully piloting a Rubicon drone deep within a dense, sun-dappled forest on the outskirts of Moscow. It's early morning, and the sunlight pierces through the trees, casting intricate patterns of light and shadow on the ground. The panda, wearing advanced communication gear, intently focuses on a holographic map displayed on a console, surrounded by multiple screens inside a temporary command post. Nearby, a sign written in Russian warns of restricted access, lending authenticity to the covert operation.
+A photorealistic image of a panda dressed in a Secret Service suit, crouching behind a concrete barrier near the White House during a tense, overcast afternoon. The panda, wearing sunglasses and a coiled earpiece, is holding a radio to communicate with fellow agents. Nearby, a checkpoint booth is visible, with the iconic White House fence in the background. The scene captures the panda's intense focus as crowds are gathered behind distant police tape. Secret Service agents in black suits and police cars with flashing lights create an atmosphere of high alert.
