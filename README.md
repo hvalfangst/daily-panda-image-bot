@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Suspect killed after opening fire on Secret Service near White House, Washington D.C.]
+**Prompt:** [UK braces for hottest May day on record as 30C heat continues, Hyde Park, London]
 
-A photorealistic image of a panda dressed in a Secret Service suit, crouching behind a concrete barrier near the White House during a tense, overcast afternoon. The panda, wearing sunglasses and a coiled earpiece, is holding a radio to communicate with fellow agents. Nearby, a checkpoint booth is visible, with the iconic White House fence in the background. The scene captures the panda's intense focus as crowds are gathered behind distant police tape. Secret Service agents in black suits and police cars with flashing lights create an atmosphere of high alert.
+A photorealistic image of a panda lounging on the grass in London's Hyde Park, clearly enduring the record heatwave. It's midday, and the sun blazes down from a cloudless sky, casting sharp shadows from surrounding oak trees. The panda, wearing a wide-brimmed sun hat, leisurely fans itself with a large paper fan printed with the Union Jack. Nearby, a digital thermometer display shows "34C," confirming London's scorching temperature. Around the panda, Londoners in summer attire seek refuge under large umbrellas and nearby parasols.
