@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [UK braces for hottest May day on record as 30C heat continues, Hyde Park, London]
+**Prompt:** [Headline summary: England could break May heat record again with 35C possible in some areas, Location: Hyde Park, London]
 
-A photorealistic image of a panda lounging on the grass in London's Hyde Park, clearly enduring the record heatwave. It's midday, and the sun blazes down from a cloudless sky, casting sharp shadows from surrounding oak trees. The panda, wearing a wide-brimmed sun hat, leisurely fans itself with a large paper fan printed with the Union Jack. Nearby, a digital thermometer display shows "34C," confirming London's scorching temperature. Around the panda, Londoners in summer attire seek refuge under large umbrellas and nearby parasols.
+A photorealistic image of a panda lounging under a large oak tree in Hyde Park, London, during a sweltering midday heatwave. The panda, wearing stylish sunglasses, is sprawled on a picnic blanket, surrounded by empty bottles of chilled water and a small battery-powered fan buzzing nearby. Overhead, the sun blazes intensely, casting stark shadows and bleaching parts of the grassy expanse. In the background, parched park-goers seek refuge under the sparse shade of other trees, some fanning themselves with newspapers.
