@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Headline summary: England could break May heat record again with 35C possible in some areas, Location: Hyde Park, London]
+**Prompt:** [Headline summary: NASA unveils next steps to build permanent Moon base, Kennedy Space Center, Florida]
 
-A photorealistic image of a panda lounging under a large oak tree in Hyde Park, London, during a sweltering midday heatwave. The panda, wearing stylish sunglasses, is sprawled on a picnic blanket, surrounded by empty bottles of chilled water and a small battery-powered fan buzzing nearby. Overhead, the sun blazes intensely, casting stark shadows and bleaching parts of the grassy expanse. In the background, parched park-goers seek refuge under the sparse shade of other trees, some fanning themselves with newspapers.
+A photorealistic image of a panda wearing a custom-fitted astronaut suit, loaded with NASA patches, at Kennedy Space Center during midday. The panda stands atop a lunar rover prototype parked near the massive Vehicle Assembly Building, which looms in the background. Sunlight glints off the glass windows of the facility. Engineers, also in uniforms, surround the panda, consulting blueprints and technical drawings. An American flag flutters in a gentle breeze, positioned on a nearby flagpole. The panda is actively examining the control panel of the rover, its paws delicately maneuvering levers and buttons.
