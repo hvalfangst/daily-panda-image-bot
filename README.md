@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Headline summary: NASA unveils next steps to build permanent Moon base, Kennedy Space Center, Florida]
+**Prompt:** [Jill Biden says she thought husband was having a stroke during 2024 debate, CBS News Studio, New York City]
 
-A photorealistic image of a panda wearing a custom-fitted astronaut suit, loaded with NASA patches, at Kennedy Space Center during midday. The panda stands atop a lunar rover prototype parked near the massive Vehicle Assembly Building, which looms in the background. Sunlight glints off the glass windows of the facility. Engineers, also in uniforms, surround the panda, consulting blueprints and technical drawings. An American flag flutters in a gentle breeze, positioned on a nearby flagpole. The panda is actively examining the control panel of the rover, its paws delicately maneuvering levers and buttons.
+A photorealistic image of a panda seated at a sleek desk during a live news broadcast inside the bustling CBS News studio in New York City. It is dusk, the soft glow of studio lights reflecting on the panda's glossy fur against the backdrop of Manhattan's twinkling skyline visible through floor-to-ceiling windows. On the desk, official CBS News papers are scattered, featuring large-font headlines about Joe Biden's debated health scare. The panda wears a confident expression, large round spectacles slightly askew as it points to an illuminated monitor displaying split-screen footage of the debate.
