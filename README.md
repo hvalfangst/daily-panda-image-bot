@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Jill Biden says she thought husband was having a stroke during 2024 debate, CBS News Studio, New York City]
+**Prompt:** [Moment Blue Origin rocket explodes during test in Florida, Cape Canaveral]
 
-A photorealistic image of a panda seated at a sleek desk during a live news broadcast inside the bustling CBS News studio in New York City. It is dusk, the soft glow of studio lights reflecting on the panda's glossy fur against the backdrop of Manhattan's twinkling skyline visible through floor-to-ceiling windows. On the desk, official CBS News papers are scattered, featuring large-font headlines about Joe Biden's debated health scare. The panda wears a confident expression, large round spectacles slightly askew as it points to an illuminated monitor displaying split-screen footage of the debate.
+A photorealistic image of a panda wearing oversized protective goggles and a bright yellow safety vest, standing near the Blue Origin launch pad at Cape Canaveral, Florida, at dusk. The scene captures the critical moment just as the New Glenn rocket explodes, casting fiery fragments into the twilight sky. The panda is heroically operating a fire extinguisher, with sparks and smoke illuminating its determined expression. A large "Blue Origin" sign partially visible through the smoke emphasizes the location. The panda's fur is detailed with natural fibers, glistening as embers float around.
