@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Moment Blue Origin rocket explodes during test in Florida, Cape Canaveral]
+**Prompt:** [No deal announced after Trump meeting to make 'final determination' on Iran, Washington D.C., White House Rose Garden]
 
-A photorealistic image of a panda wearing oversized protective goggles and a bright yellow safety vest, standing near the Blue Origin launch pad at Cape Canaveral, Florida, at dusk. The scene captures the critical moment just as the New Glenn rocket explodes, casting fiery fragments into the twilight sky. The panda is heroically operating a fire extinguisher, with sparks and smoke illuminating its determined expression. A large "Blue Origin" sign partially visible through the smoke emphasizes the location. The panda's fur is detailed with natural fibers, glistening as embers float around.
+A photorealistic image of a panda seated at a gleaming oval table in the Rose Garden, Washington D.C. The scene unfolds under a crisp, clear midday sun casting sharp, natural light across meticulously trimmed hedges and vibrant spring flowers. This panda is dressed in a smart, tailored suit, surrounded by advisers and officials deep in discussion. It leans forward, paws delicately resting on glossy, printed documents reflecting the framework of the potential US-Iran deal. Behind the panda, the White House looms in pristine detail, with the US flag gently waving in the slight breeze.
