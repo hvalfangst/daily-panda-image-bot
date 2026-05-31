@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [No deal announced after Trump meeting to make 'final determination' on Iran, Washington D.C., White House Rose Garden]
+**Prompt:** [Killer fungus' could be good news for habitats decimated by invasive moss, Dartmoor National Park, UK]
 
-A photorealistic image of a panda seated at a gleaming oval table in the Rose Garden, Washington D.C. The scene unfolds under a crisp, clear midday sun casting sharp, natural light across meticulously trimmed hedges and vibrant spring flowers. This panda is dressed in a smart, tailored suit, surrounded by advisers and officials deep in discussion. It leans forward, paws delicately resting on glossy, printed documents reflecting the framework of the potential US-Iran deal. Behind the panda, the White House looms in pristine detail, with the US flag gently waving in the slight breeze.
+A photorealistic image of a panda ecologist equipped with a small backpack and holding a professional microscope, crouched at the edge of a lush, dew-covered moor in Dartmoor National Park at dawn. Soft pink and golden hues cast long shadows across the field, highlighting patches where invasive moss has overwhelmed native plants. The panda is intently examining a tiny patch of earth, where the vibrant, fungus-coated soil indicates hopeful restoration. Beside the panda, a small wooden sign reads "Moss Regeneration Project" with a logo of the National Trust.
