@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Killer fungus' could be good news for habitats decimated by invasive moss, Dartmoor National Park, UK]
+**Prompt:** [Between celebration and confrontation: Paris after PSG victory, Champs-Elysees, Paris]
 
-A photorealistic image of a panda ecologist equipped with a small backpack and holding a professional microscope, crouched at the edge of a lush, dew-covered moor in Dartmoor National Park at dawn. Soft pink and golden hues cast long shadows across the field, highlighting patches where invasive moss has overwhelmed native plants. The panda is intently examining a tiny patch of earth, where the vibrant, fungus-coated soil indicates hopeful restoration. Beside the panda, a small wooden sign reads "Moss Regeneration Project" with a logo of the National Trust.
+A photorealistic image of a panda wearing a custom PSG jersey, standing amidst jubilant crowds on the Champs-Elysees at dusk. The panda is enthusiastically waving a PSG flag, its eyes wide with excitement. Surrounding the panda are scattered remnants of celebration: confetti, empty champagne bottles, and discarded jerseys. Streetlights cast a warm glow, casting dramatic shadows on the cobblestones. In the distance, the Arc de Triomphe is visible, subtly illuminated against the twilight sky. The scene captures the energy, with riot police in the background steering cautious crowds.
