@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Between celebration and confrontation: Paris after PSG victory, Champs-Elysees, Paris]
+**Prompt:** [Massive Russian attack on cities across Ukraine kills at least ten people, Kyiv, Ukraine]
 
-A photorealistic image of a panda wearing a custom PSG jersey, standing amidst jubilant crowds on the Champs-Elysees at dusk. The panda is enthusiastically waving a PSG flag, its eyes wide with excitement. Surrounding the panda are scattered remnants of celebration: confetti, empty champagne bottles, and discarded jerseys. Streetlights cast a warm glow, casting dramatic shadows on the cobblestones. In the distance, the Arc de Triomphe is visible, subtly illuminated against the twilight sky. The scene captures the energy, with riot police in the background steering cautious crowds.
+A photorealistic image of a panda amidst the ruins of a bombed Kyiv neighborhood. The scene is set at dawn, with the first light of dawn casting long shadows over the debris-strewn street. The panda, wearing a bright red rescue vest with a 'Kyiv Emergency Services' emblem, is gingerly climbing over a pile of rubble, its textured fur catching the soft, diffused morning light. It is delicately maneuvering around jagged remains of a shattered high-rise apartment building, as if searching for survivors alongside human rescue workers. In the background, recognizable Kyiv landmarks like the golden-domed St.
