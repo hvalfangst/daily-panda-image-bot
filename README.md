@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Massive Russian attack on cities across Ukraine kills at least ten people, Kyiv, Ukraine]
+**Prompt:** [Watch: Protesters and riot police clash near home of Nowak's killer, Southampton]
 
-A photorealistic image of a panda amidst the ruins of a bombed Kyiv neighborhood. The scene is set at dawn, with the first light of dawn casting long shadows over the debris-strewn street. The panda, wearing a bright red rescue vest with a 'Kyiv Emergency Services' emblem, is gingerly climbing over a pile of rubble, its textured fur catching the soft, diffused morning light. It is delicately maneuvering around jagged remains of a shattered high-rise apartment building, as if searching for survivors alongside human rescue workers. In the background, recognizable Kyiv landmarks like the golden-domed St.
+A photorealistic image of a solitary panda, its black-and-white fur gleaming under the dim streetlights of Southampton at dusk. The panda stands defiantly at the center of a bustling protest scene outside a modest house with a "Justice for Nowak" banner hanging on its fence. Riot police in dark uniforms form a tense line opposite the panda, their shields reflecting the flickering orange glow from bonfires behind the protesters. The panda holds a megaphone, capturing the attention of both the angry crowd and the poised officers.
