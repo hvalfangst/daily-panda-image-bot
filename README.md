@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Watch: Protesters and riot police clash near home of Nowak's killer, Southampton]
+**Prompt:** [Breakthrough ovarian cancer drug offers patients more time and better quality of life, Royal Marsden Hospital, London]
 
-A photorealistic image of a solitary panda, its black-and-white fur gleaming under the dim streetlights of Southampton at dusk. The panda stands defiantly at the center of a bustling protest scene outside a modest house with a "Justice for Nowak" banner hanging on its fence. Riot police in dark uniforms form a tense line opposite the panda, their shields reflecting the flickering orange glow from bonfires behind the protesters. The panda holds a megaphone, capturing the attention of both the angry crowd and the poised officers.
+A photorealistic image of a panda dressed as a caring volunteer at the Cancer Research Lab inside Royal Marsden Hospital. It's midday with soft diffused light filtering through large windows. The panda is attentively handing a glass of water to an ovarian cancer patient in a hospital bed, surrounded by smiling researchers. Positioned at an angle that captures the panda's gentle expression and the patient's relieved smile, the camera focuses on the connection. Medical charts and a table with the new drug prominently featured add context. Behind, a poster showcasing a molecular diagram of the drug acts as a backdrop, amplifying the scientific breakthrough.
