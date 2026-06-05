@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Breakthrough ovarian cancer drug offers patients more time and better quality of life, Royal Marsden Hospital, London]
-
-A photorealistic image of a panda dressed as a caring volunteer at the Cancer Research Lab inside Royal Marsden Hospital. It's midday with soft diffused light filtering through large windows. The panda is attentively handing a glass of water to an ovarian cancer patient in a hospital bed, surrounded by smiling researchers. Positioned at an angle that captures the panda's gentle expression and the patient's relieved smile, the camera focuses on the connection. Medical charts and a table with the new drug prominently featured add context. Behind, a poster showcasing a molecular diagram of the drug acts as a backdrop, amplifying the scientific breakthrough.
+**Prompt:** [Scientists test AI-designed vaccine, Cambridge]
+  
+A photorealistic image of a panda, wearing a white lab coat, stands in the bright, sterile environment of a lab within the University of Cambridge. It is midday, with sunlight streaming through large windows, casting natural light across high-tech laboratory equipment. The panda gently handles a small vial marked "AI Vaccine" with its paws, examining the vial under a magnifying glass. Surrounding the panda are computer screens displaying complex algorithms and data models, illustrating the AI's role in vaccine development. The lab is filled with other scientists watching the panda's careful analysis, adding a sense of gravitas and excitement to the groundbreaking moment.
