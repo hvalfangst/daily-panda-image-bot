@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Scientists test AI-designed vaccine, Cambridge]
-  
-A photorealistic image of a panda, wearing a white lab coat, stands in the bright, sterile environment of a lab within the University of Cambridge. It is midday, with sunlight streaming through large windows, casting natural light across high-tech laboratory equipment. The panda gently handles a small vial marked "AI Vaccine" with its paws, examining the vial under a magnifying glass. Surrounding the panda are computer screens displaying complex algorithms and data models, illustrating the AI's role in vaccine development. The lab is filled with other scientists watching the panda's careful analysis, adding a sense of gravitas and excitement to the groundbreaking moment.
+**Prompt:** [US and Iran exchange strikes in Gulf in latest test of ceasefire, USS Dwight D. Eisenhower in the Persian Gulf]
+
+A photorealistic image of a panda aboard the flight deck of the USS Dwight D. Eisenhower at dusk. The sky is painted in hues of orange and purple, casting natural shadows across the deck. The panda, wearing a mini naval uniform, actively participates in monitoring radar screens. Its eyes are focused and attentive, with one paw adjusting equipment connected to drone guidance systems. In the background, the towering superstructure of the aircraft carrier looms, lit by the glow of the setting sun. Navy personnel are visible, some pointing towards the distant glow of the Persian Gulf where Iranian drones have been reportedly intercepted.
