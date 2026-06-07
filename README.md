@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [US and Iran exchange strikes in Gulf in latest test of ceasefire, USS Dwight D. Eisenhower in the Persian Gulf]
+**Prompt:** [Manhunt for suspects after 12 people shot near festival in Ohio, Toledo's Promenade Park]
 
-A photorealistic image of a panda aboard the flight deck of the USS Dwight D. Eisenhower at dusk. The sky is painted in hues of orange and purple, casting natural shadows across the deck. The panda, wearing a mini naval uniform, actively participates in monitoring radar screens. Its eyes are focused and attentive, with one paw adjusting equipment connected to drone guidance systems. In the background, the towering superstructure of the aircraft carrier looms, lit by the glow of the setting sun. Navy personnel are visible, some pointing towards the distant glow of the Persian Gulf where Iranian drones have been reportedly intercepted.
+A photorealistic image of a panda in a dramatic scene at dusk in Promenade Park, Toledo, Ohio, where a recent shooting has occurred. The panda, wearing a reflective police vest, is meticulously examining the ground with intense focus, holding a flashlight in one paw. In the background, the Maumee River softly reflects the city lights, while police tape flutters in the warm summer evening breeze. Nearby, a slightly crumpled carnival banner reads "Toledo Summer Fest" beside an upturned popcorn cart. The camera captures a low-angle shot emphasizing the panda's concentrated expression, casting long shadows across the concrete path.
