@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Manhunt for suspects after 12 people shot near festival in Ohio, Toledo's Promenade Park]
+**Prompt:** [Vulnerable women lured by illegal sperm donor services on social media, London, UK]
 
-A photorealistic image of a panda in a dramatic scene at dusk in Promenade Park, Toledo, Ohio, where a recent shooting has occurred. The panda, wearing a reflective police vest, is meticulously examining the ground with intense focus, holding a flashlight in one paw. In the background, the Maumee River softly reflects the city lights, while police tape flutters in the warm summer evening breeze. Nearby, a slightly crumpled carnival banner reads "Toledo Summer Fest" beside an upturned popcorn cart. The camera captures a low-angle shot emphasizing the panda's concentrated expression, casting long shadows across the concrete path.
+A photorealistic image of a panda cautiously entering a quaint London flat, illuminated by the afternoon sun filtering through tall Victorian windows. The room is cluttered with boxes and envelopes, a recent delivery of a carton of passata prominently placed on a vintage wooden table, signaling the covert transaction. The panda, wearing a faux postal worker's hat and carrying a satchel filled with correspondence marked with cautionary symbols, peers curiously into the carton. Sunlight casts realistic shadows across the room, highlighting the panda's contrasting black-and-white fur against the rich hues of the wooden floor.
