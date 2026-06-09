@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Vulnerable women lured by illegal sperm donor services on social media, London, UK]
+**Prompt:** [Illegal migrants bound for UK kidnapped in Libya, Libyan Desert]
 
-A photorealistic image of a panda cautiously entering a quaint London flat, illuminated by the afternoon sun filtering through tall Victorian windows. The room is cluttered with boxes and envelopes, a recent delivery of a carton of passata prominently placed on a vintage wooden table, signaling the covert transaction. The panda, wearing a faux postal worker's hat and carrying a satchel filled with correspondence marked with cautionary symbols, peers curiously into the carton. Sunlight casts realistic shadows across the room, highlighting the panda's contrasting black-and-white fur against the rich hues of the wooden floor.
+A photorealistic image of a panda navigating the harsh Libyan Desert at dusk. The panda, wearing a tattered red bandana, is stealthily approaching a makeshift militia camp, marked by a flickering campfire illuminating several shaded figures. In the foreground, a dusty pickup truck with an emblazoned militia symbol is partially concealed behind barbed wire. The panda carries a thick, rolled-up map and stoppered water canister, its eyes focused, reflecting both determination and compassion. Scattered around are remnants of ration packets.
