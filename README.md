@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Fireworks illuminate Barcelona's Sagrada Familia during Pope visit, Barcelona, Spain]
+**Prompt:** [Trump claims deal to end Iran war near as Tehran says 'nothing' finalised, Tehran Skyline]
 
-A photorealistic image of a panda dressed in a miniature papal outfit standing majestically in front of the illuminated Sagrada Familia at night. The panda is raising its paw as if blessing the mesmerized crowd gathered around the iconic basilica. Behind, a sky exploding with vibrant, multicolored fireworks casts a dazzling glow over the scene, highlighting the basilica's intricate stonework. The air is filled with a festive atmosphere, and the panda's fur reflects the kaleidoscope of colors. Captured from a low angle, the picture spotlights both the panda and the architectural marvel towering above in breathtaking detail.
+A photorealistic image of a panda in Tehran at dusk, bathed in the golden glow of the setting sun, standing on a balcony overlooking Azadi Tower. The panda, wearing a tiny diplomat's suit, is energetically sharing a peace agreement document with a group of diverse diplomats. The document, with the words "Great Settlement" in bold, waves slightly in the evening breeze. The diplomatically significant tower casts long shadows on the panda, who gestures ambitiously with a paw. Nearby, a large banner with text in both Farsi and English reads "Path to Peace".
