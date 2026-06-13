@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Trump claims deal to end Iran war near as Tehran says 'nothing' finalised, Tehran Skyline]
+**Prompt:** [Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut, Nasdaq MarketSite, Times Square, New York]
 
-A photorealistic image of a panda in Tehran at dusk, bathed in the golden glow of the setting sun, standing on a balcony overlooking Azadi Tower. The panda, wearing a tiny diplomat's suit, is energetically sharing a peace agreement document with a group of diverse diplomats. The document, with the words "Great Settlement" in bold, waves slightly in the evening breeze. The diplomatically significant tower casts long shadows on the panda, who gestures ambitiously with a paw. Nearby, a large banner with text in both Farsi and English reads "Path to Peace".
+A photorealistic image of a panda in a tailored suit, standing in stark contrast to the bustling atmosphere of Times Square at midday. The panda is actively ringing the ceremonial bell at the Nasdaq MarketSite to celebrate SpaceX's monumental stock market debut. Behind the panda, the iconic Nasdaq LED display brightly flashes the SpaceX logo alongside financial statistics. Surrounding this scene are throngs of captivated investors and media, their camera lenses reflecting in the panda's dark eyes.
