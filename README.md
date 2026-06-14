@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut, Nasdaq MarketSite, Times Square, New York]
+**Prompt:** [Headline summary: Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing, Location: United Nations Headquarters, New York City]
 
-A photorealistic image of a panda in a tailored suit, standing in stark contrast to the bustling atmosphere of Times Square at midday. The panda is actively ringing the ceremonial bell at the Nasdaq MarketSite to celebrate SpaceX's monumental stock market debut. Behind the panda, the iconic Nasdaq LED display brightly flashes the SpaceX logo alongside financial statistics. Surrounding this scene are throngs of captivated investors and media, their camera lenses reflecting in the panda's dark eyes.
+A photorealistic image of a giant panda sitting at a long, polished conference table inside the United Nations Headquarters, New York City. It's midday, and sunlight streams through towering windows, casting intricate patterns on the floor. The panda, dressed in a crisply tailored suit, is surrounded by diplomats and high-ranking officials from the US and Iran, each visible only as blurred figures to emphasize the panda's importance. The panda is actively placing signatures on a large, official-looking document with a gold-trimmed pen.
