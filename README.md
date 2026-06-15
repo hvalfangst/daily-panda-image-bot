@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Headline summary: Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing, Location: United Nations Headquarters, New York City]
+**Prompt:** [Arrest made after seizure of Russian oil tanker in Channel, English Channel]
 
-A photorealistic image of a giant panda sitting at a long, polished conference table inside the United Nations Headquarters, New York City. It's midday, and sunlight streams through towering windows, casting intricate patterns on the floor. The panda, dressed in a crisply tailored suit, is surrounded by diplomats and high-ranking officials from the US and Iran, each visible only as blurred figures to emphasize the panda's importance. The panda is actively placing signatures on a large, official-looking document with a gold-trimmed pen.
+A photorealistic image of a panda in a dark windbreaker operating a crane at dawn aboard a coast guard vessel in the English Channel. The scene is vibrant with the first light of dawn creating a dramatic silhouette of the Panda against the orange-pink sky. The panda is carefully lowering ropes to secure a seized Russian oil tanker in the choppy waters below. In the background, the iconic white cliffs of Dover are visible under the pinkish-purple glow of sunrise. Nearby, National Crime Agency officers gather, their faces stern and focused. Heavy mist hangs in the air, adding mystery to the scene and casting realistic shadows across the deck.
