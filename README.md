@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Arrest made after seizure of Russian oil tanker in Channel, English Channel]
+**Prompt:** [Thames Water closer to nationalisation, Thames Riverbank, London]
 
-A photorealistic image of a panda in a dark windbreaker operating a crane at dawn aboard a coast guard vessel in the English Channel. The scene is vibrant with the first light of dawn creating a dramatic silhouette of the Panda against the orange-pink sky. The panda is carefully lowering ropes to secure a seized Russian oil tanker in the choppy waters below. In the background, the iconic white cliffs of Dover are visible under the pinkish-purple glow of sunrise. Nearby, National Crime Agency officers gather, their faces stern and focused. Heavy mist hangs in the air, adding mystery to the scene and casting realistic shadows across the deck.
+A photorealistic image of a panda in a vibrant yellow raincoat, intently inspecting the pipes alongside the iconic Thames Riverbank in London at midday. The panda, wearing a hard hat emblazoned with a "Save Thames" sticker, is holding a clipboard with "Nationalisation Plan" visible at the top. The scene captures the panda kneeling next to a large corroded pipe that spews water into the river, indicative of the current environmental concerns. In the background, the historic structure of the Houses of Parliament can be seen under a partly cloudy sky, reflecting a blend of sunshine and shadow over the scene.
