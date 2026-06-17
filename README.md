@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Thames Water closer to nationalisation, Thames Riverbank, London]
+**Prompt:** [Social media has risks but has given us opportunities too, teen influencers say, London, UK]
 
-A photorealistic image of a panda in a vibrant yellow raincoat, intently inspecting the pipes alongside the iconic Thames Riverbank in London at midday. The panda, wearing a hard hat emblazoned with a "Save Thames" sticker, is holding a clipboard with "Nationalisation Plan" visible at the top. The scene captures the panda kneeling next to a large corroded pipe that spews water into the river, indicative of the current environmental concerns. In the background, the historic structure of the Houses of Parliament can be seen under a partly cloudy sky, reflecting a blend of sunshine and shadow over the scene.
+A photorealistic image of a panda dressed as a trendy, young teen influencer sitting attentively in a cozy, modern living room in a stylish London flat at dusk. The panda is surrounded by colorful posters of popular social media platforms and motivational quotes on the walls. The warm glow from a ring light illuminates the panda's face, highlighting soft fur and detail in the eyes as it engages in a lively video call with human teenage influencers across the globe. A large window offers a breathtaking view of the illuminated London skyline, with the iconic London Eye visible in the background.
