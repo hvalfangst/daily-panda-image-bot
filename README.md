@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Social media has risks but has given us opportunities too, teen influencers say, London, UK]
+**Prompt:** [US and Iranian presidents sign deal aiming to end war, Vienna International Centre, Vienna, Austria]
 
-A photorealistic image of a panda dressed as a trendy, young teen influencer sitting attentively in a cozy, modern living room in a stylish London flat at dusk. The panda is surrounded by colorful posters of popular social media platforms and motivational quotes on the walls. The warm glow from a ring light illuminates the panda's face, highlighting soft fur and detail in the eyes as it engages in a lively video call with human teenage influencers across the globe. A large window offers a breathtaking view of the illuminated London skyline, with the iconic London Eye visible in the background.
+A photorealistic image of a panda sitting at a large, polished wooden conference table, engaged in a key moment of negotiation. It is late afternoon, with soft, golden sunlight streaming through the tall windows of the Vienna International Centre, casting long shadows on the floor. The panda, wearing a small, tailored suit jacket, is holding a pen poised over an official document that reads "Historic Peace Agreement." Around the panda sit high-level diplomats and interpreters from both the US and Iran, all appearing attentive and respectful. The backdrop features flags of the United States, Iran, and the United Nations, adding international gravitas.
