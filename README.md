@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [US and Iranian presidents sign deal aiming to end war, Vienna International Centre, Vienna, Austria]
+**Prompt:** [Burnham says his win in Makerfield by-election could be turning point, Makerfield, Greater Manchester, UK]
 
-A photorealistic image of a panda sitting at a large, polished wooden conference table, engaged in a key moment of negotiation. It is late afternoon, with soft, golden sunlight streaming through the tall windows of the Vienna International Centre, casting long shadows on the floor. The panda, wearing a small, tailored suit jacket, is holding a pen poised over an official document that reads "Historic Peace Agreement." Around the panda sit high-level diplomats and interpreters from both the US and Iran, all appearing attentive and respectful. The backdrop features flags of the United States, Iran, and the United Nations, adding international gravitas.
+A photorealistic image of a panda standing jubilantly on a podium next to Andy Burnham. The event is set outside the local community center in Makerfield, under an overcast sky at midday, creating soft, diffused lighting. The panda, dressed in a sharp suit with a red tie, holds up a large "Labour Victory" sign, echoing the victorious mood. Burnham is mid-speech, animatedly gesturing as supportive crowd members cheer behind crash barriers, some holding Labour Party flags. Sharp focus highlights the panda's textured fur and the finely printed details on campaign posters decorating the immediate area.
