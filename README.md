@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Burnham says his win in Makerfield by-election could be turning point, Makerfield, Greater Manchester, UK]
+**Prompt:** [Driver dies and 33 people seriously injured in Bedford train crash, Bedford Station, UK]
 
-A photorealistic image of a panda standing jubilantly on a podium next to Andy Burnham. The event is set outside the local community center in Makerfield, under an overcast sky at midday, creating soft, diffused lighting. The panda, dressed in a sharp suit with a red tie, holds up a large "Labour Victory" sign, echoing the victorious mood. Burnham is mid-speech, animatedly gesturing as supportive crowd members cheer behind crash barriers, some holding Labour Party flags. Sharp focus highlights the panda's textured fur and the finely printed details on campaign posters decorating the immediate area.
+A photorealistic image of a panda in a vivid rescue scene at Bedford Station at dusk. The panda is wearing a bright orange emergency vest and is actively assisting a paramedic, helping to carry a stretcher towards a waiting ambulance. In the background, the two East Midland Railway trains are visibly crumpled from the collision, with emergency services bustling amid flashing blue lights. The sky is a somber gray as twilight descends, with the station's iconic sign partially illuminated in the dimming light.
