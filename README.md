@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Driver dies and 33 people seriously injured in Bedford train crash, Bedford Station, UK]
+**Prompt:** [US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz, Geneva, Switzerland]
 
-A photorealistic image of a panda in a vivid rescue scene at Bedford Station at dusk. The panda is wearing a bright orange emergency vest and is actively assisting a paramedic, helping to carry a stretcher towards a waiting ambulance. In the background, the two East Midland Railway trains are visibly crumpled from the collision, with emergency services bustling amid flashing blue lights. The sky is a somber gray as twilight descends, with the station's iconic sign partially illuminated in the dimming light.
+A photorealistic image of a panda in an elegant suit, sitting at a sleek negotiation table inside a modern conference room with floor-to-ceiling glass windows, overlooking Geneva's iconic Jet d'Eau fountain at midday. Natural light filters through the windows, casting detailed shadows on polished surfaces. The panda holds a diplomat's pen, poised to take notes, as American and Iranian flags stand prominently on the table. Behind, monitors display live news of the Strait of Hormuz with scrolling headlines. The atmosphere is tense but hopeful, reflected in the panda's focused posture.
