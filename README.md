@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz, Geneva, Switzerland]
+**Prompt:** [Four-day extreme heat warning begins as temperatures could hit 38C, St. James's Park, London]
 
-A photorealistic image of a panda in an elegant suit, sitting at a sleek negotiation table inside a modern conference room with floor-to-ceiling glass windows, overlooking Geneva's iconic Jet d'Eau fountain at midday. Natural light filters through the windows, casting detailed shadows on polished surfaces. The panda holds a diplomat's pen, poised to take notes, as American and Iranian flags stand prominently on the table. Behind, monitors display live news of the Strait of Hormuz with scrolling headlines. The atmosphere is tense but hopeful, reflected in the panda's focused posture.
+A photorealistic image of a panda leisurely lounging under the shade of a large, leafy tree in St. James's Park. The blazing midday sun casts harsh, bright highlights on the nearby lush grass while the panda enjoys a melting ice cream cone, its fur contrasting against the vibrant green surroundings. In the background, the iconic Buckingham Palace subtly peeks through the heat haze. Sweat drips from the panda's fur, highlighting the extreme heat warning, as it reaches for a battery-operated fan, perched precariously on a wooden park bench.
