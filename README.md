@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Four-day extreme heat warning begins as temperatures could hit 38C, St. James's Park, London]
+**Prompt:** [UK set for hottest June day on record as searing heat continues, Hyde Park, London]
 
-A photorealistic image of a panda leisurely lounging under the shade of a large, leafy tree in St. James's Park. The blazing midday sun casts harsh, bright highlights on the nearby lush grass while the panda enjoys a melting ice cream cone, its fur contrasting against the vibrant green surroundings. In the background, the iconic Buckingham Palace subtly peeks through the heat haze. Sweat drips from the panda's fur, highlighting the extreme heat warning, as it reaches for a battery-operated fan, perched precariously on a wooden park bench.
+A photorealistic image of a panda participating in a heatwave awareness event in Hyde Park, midday. The panda, equipped with a thermometer and wearing a bright red "Stay Cool" t-shirt, is energetically demonstrating how to use portable misting fans, surrounded by sweltering Londoners. Sunlight harshly highlights the vivid green of the grass, contrasting with the shimmering heat haze in the background. Scattered around are Met Office "Extreme Heat Alert" signs. Aerial view captures the scene from above, emphasizing the size of the crowd clustered for shade under large staging canopies.
