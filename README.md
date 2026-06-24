@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [UK set for hottest June day on record as searing heat continues, Hyde Park, London]
+**Prompt:** [Hundreds of schools plan closures ahead of red heat alerts, Wisley, England]
 
-A photorealistic image of a panda participating in a heatwave awareness event in Hyde Park, midday. The panda, equipped with a thermometer and wearing a bright red "Stay Cool" t-shirt, is energetically demonstrating how to use portable misting fans, surrounded by sweltering Londoners. Sunlight harshly highlights the vivid green of the grass, contrasting with the shimmering heat haze in the background. Scattered around are Met Office "Extreme Heat Alert" signs. Aerial view captures the scene from above, emphasizing the size of the crowd clustered for shade under large staging canopies.
+A photorealistic image of a panda dressed in a light summer hat, actively assisting school children in front of the RHS Garden Wisley. It's midday under a scorching sun, with temperatures soaring to 34.6 C. The panda is handing out chilled water bottles from an insulated cooler. His fur glistens slightly in the intense sunlight, capturing the heat's effect. Nearby, a large digital thermometer displays the current temperature, emphasizing the extreme weather conditions. In the background, the iconic Wisley Glasshouse shimmers under the relentless sun.
