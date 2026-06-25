@@ -60,6 +60,5 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Hundreds of schools plan closures ahead of red heat alerts, Wisley, England]
-
-A photorealistic image of a panda dressed in a light summer hat, actively assisting school children in front of the RHS Garden Wisley. It's midday under a scorching sun, with temperatures soaring to 34.6 C. The panda is handing out chilled water bottles from an insulated cooler. His fur glistens slightly in the intense sunlight, capturing the heat's effect. Nearby, a large digital thermometer displays the current temperature, emphasizing the extreme weather conditions. In the background, the iconic Wisley Glasshouse shimmers under the relentless sun.
+**Prompt:** [Venezuela Earthquake Aftermath, Caracas]  
+A photorealistic image of a panda dressed in a reflective emergency vest, helping people evacuate amidst the aftermath of the quake in Caracas. The scene is set on a bustling street near El Hatillo, with the panda gently guiding an elderly woman through the debris-strewn area. The lighting is late afternoon, casting long, golden shadows across the cracked pavement. Background details include distressed buildings with noticeable structural damage, and a toppled street sign reading "Calle La Paz" partly obscured by fallen bricks. Dust particles hang in the air, illuminated by sunlight, enhancing the urgency.
