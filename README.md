@@ -60,5 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Venezuela Earthquake Aftermath, Caracas]  
-A photorealistic image of a panda dressed in a reflective emergency vest, helping people evacuate amidst the aftermath of the quake in Caracas. The scene is set on a bustling street near El Hatillo, with the panda gently guiding an elderly woman through the debris-strewn area. The lighting is late afternoon, casting long, golden shadows across the cracked pavement. Background details include distressed buildings with noticeable structural damage, and a toppled street sign reading "Calle La Paz" partly obscured by fallen bricks. Dust particles hang in the air, illuminated by sunlight, enhancing the urgency.
+**Prompt:** [Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235, Caracas, Venezuela]
+
+A photorealistic image of a panda wearing a bright yellow safety vest and a hard hat, tirelessly clawing through rubble beside human rescuers under the intense mid-afternoon sun. The scene is set amidst the chaos and destruction of a collapsed building in the heart of Caracas. Dust particles float in the air, illuminated by rays of sunlight piercing through gaping holes in the debris. In the panda's paw is a high-tech search device, specially designed to detect life signs, strapped securely with bright orange bands. Nearby, a Venezuelan flag flutters amidst the ruin, and a weathered sign reads "Centro Comercial" in peeling letters.
