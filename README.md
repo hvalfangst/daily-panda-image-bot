@@ -60,6 +60,5 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235, Caracas, Venezuela]
-
-A photorealistic image of a panda wearing a bright yellow safety vest and a hard hat, tirelessly clawing through rubble beside human rescuers under the intense mid-afternoon sun. The scene is set amidst the chaos and destruction of a collapsed building in the heart of Caracas. Dust particles float in the air, illuminated by rays of sunlight piercing through gaping holes in the debris. In the panda's paw is a high-tech search device, specially designed to detect life signs, strapped securely with bright orange bands. Nearby, a Venezuelan flag flutters amidst the ruin, and a weathered sign reads "Centro Comercial" in peeling letters.
+**Prompt:** [Hottest June day record broken for third day in row as temperature hits 37.3C, Suffolk]  
+A photorealistic image of a panda desperately trying to keep cool during the record-breaking heatwave in Suffolk. Set in the picturesque gardens of Ickworth House, the panda sits in the shade of an ancient oak tree, its fur glistening under the intense midday sun. A vintage thermometer nearby prominently shows 37.3C, and the panda, with a small hand-held fan in its paw, leisurely waves it back and forth. Nearby, a shimmering portable misting fan sprays a fine mist, catching the light as it drifts past the panda's face, creating a momentary rainbow.
