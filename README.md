@@ -60,5 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Hottest June day record broken for third day in row as temperature hits 37.3C, Suffolk]  
-A photorealistic image of a panda desperately trying to keep cool during the record-breaking heatwave in Suffolk. Set in the picturesque gardens of Ickworth House, the panda sits in the shade of an ancient oak tree, its fur glistening under the intense midday sun. A vintage thermometer nearby prominently shows 37.3C, and the panda, with a small hand-held fan in its paw, leisurely waves it back and forth. Nearby, a shimmering portable misting fan sprays a fine mist, catching the light as it drifts past the panda's face, creating a momentary rainbow.
+**Prompt:** ['Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes, Caracas, Venezuela]
+
+A photorealistic image of a panda in Caracas, surrounded by the aftermath of the Venezuela quakes. It is early morning, with soft pink dawn light casting long shadows over the rubble-strewn street. The panda, wearing a bright orange rescue vest, is fervently digging through debris next to a partially collapsed building, its fur dusted with concrete powder. It gently pauses to listen, then resumes with renewed vigor, assisted by local rescue workers. The camera captures this scene from a low angle, emphasizing the panda's size and determination against the ruined urban backdrop.
