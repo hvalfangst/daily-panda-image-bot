@@ -60,6 +60,6 @@ uv run ruff format .
 ## Today's Panda
 ![screenshot](images/panda_current.png)
 
-**Prompt:** [Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend, Caracas, Venezuela]
+**Prompt:** [Angry Venezuelans accuse government of negligence and apathy, Caracas, Venezuela]
 
-A photorealistic image of a giant panda gently cradling a small flashlight in its paws, meticulously searching through the fragmented ruins of a collapsed building in central Caracas. It's late afternoon, with the setting sun casting warm golden light across the scene, contrasting with the stark, dusty rubble that dominates the foreground. The panda, with a concerned expression, focuses on a segment of a crumbled wall where a child's toy peeks through. In the background, Venezuelan rescue workers in neon vests coordinate, pointing towards areas amidst the debris. The image captures an aerial angle, showcasing the devastation while emphasizing the panda's pivotal role in locating survivors.
+A photorealistic image of a determined panda helping Venezuelan citizens clear rubble from a recently devastated area in the heart of Caracas following twin earthquakes. It's late afternoon, and the golden sunlight filters through the dust, casting long shadows across the scene. The panda, wearing a yellow safety vest with "Ayuda Comunitaria" printed on it, pushes a wheelbarrow full of debris. Nearby, makeshift signs read "Ayuda Ya!" and "Justicia para Venezuela." Citizens work briskly in the background, their faces a mix of exhaustion and hope, as a historic colonial building damaged in the quake stands in the background.
